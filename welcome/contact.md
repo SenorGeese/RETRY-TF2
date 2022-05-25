@@ -11,5 +11,3 @@ description: How to contact.
 #### You can create an issue at: [https://github.com/SenorGeese/TF2-CustomTextures/issues](https://github.com/SenorGeese/TF2-CustomTextures/issues).
 
 #### You can also find us in #skins-chat in the Northstar Discord server at this Permanent and Public link: [https://discord.gg/northstar](https://discord.gg/northstar)
-
-#### You can also join our Discord server (optional) at this Permanent and Public link: [https://discord.gg/ce8HR7Ygvw](https://discord.gg/ce8HR7Ygvw)
