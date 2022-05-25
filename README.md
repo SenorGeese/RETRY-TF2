@@ -10,3 +10,5 @@ This wiki strives to provide accurate, and updated infomation about custom textu
 Gitbook hosted wiki at: https://retrywiki.gitbook.io/tf2/
 
 Thanks to Gitbook for hosting and providing a space for our wiki.
+
+RETRY is simply a shorter name to refrence the group of people working on the wiki and project.
