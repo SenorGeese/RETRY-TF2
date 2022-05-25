@@ -1,7 +1,7 @@
-# Titanfall 2 Custom Textures and Skins Wiki
+# Titanfall 2 Custom Textures & Skins Wiki
 Created & Maintained by: RETRY (the community)
 
-# Welcome to the RETRY Titanfall 2 Custom Texture and Skins Wiki.
+# Welcome to the RETRY Titanfall 2 Custom Texture & Skins Wiki.
 
 This is the hosting repository for the TF2-CustomTextures wiki hosted on Gitbook.
 
