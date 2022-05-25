@@ -2,8 +2,8 @@
 
 ## Formats:
 
-{% content-ref url="../../wiki/page-1.md" %}
-[page-1.md](../../wiki/page-1.md)
+{% content-ref url="formats.md" %}
+[formats.md](formats.md)
 {% endcontent-ref %}
 
 Formats and possibilities with Titanfall 2 custom textures.
@@ -24,5 +24,10 @@ Commonly used tools within the community.
 
 Organized data to find your desired item under in-game code names.
 
+## Exporting:
 
+{% content-ref url="Export/" %}
+[Export](Export/)
+{% endcontent-ref %}
 
+Pages regarding exporting.

@@ -13,17 +13,18 @@ Thank to these awesome community members that put time and effort into creating 
 | SenorGoose | Editor, Founder |
 |    E3VL    |   Editor, Help  |
 |    H0L0    |   Ideas, Help   |
-|            |                 |
 
 ### Secondary Information:
 
 People that have provided separate but useful information or help without official documentation.
 
-|   People   |  Where? |
-| :--------: | :-----: |
-|   Catbug   | NoSkill |
-| DirectXeon | NoSkill |
-|    Wanty   | NoSkill |
-|            |         |
+|   People   |              Where?             |
+| :--------: | :-----------------------------: |
+|   Catbug   |             NoSkill             |
+|   Strykus  | Titanfall 2 Weapon Skin Modding |
+|    Wanty   |             NoSkill             |
+|    lexvi   | Titanfall 2 Weapon Skin Modding |
+| DirectXeon |             NoSkill             |
+|  Bigspice  | Titanfall 2 Weapon Skin Modding |
 
 #### The end but not final. Come help!

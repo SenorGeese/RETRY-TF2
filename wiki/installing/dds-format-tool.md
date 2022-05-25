@@ -58,13 +58,14 @@ Click `Import Skin` and you're done!
 If you don't see the skins in game (_in_ game, not the menu), you may need to turn up your texture filtering to at least 8x
 {% endhint %}
 
+## Videos:
 
+{% embed url="https://youtu.be/trvO7t59FmU" %}
 
+## Manual Installation/Modding
 
+{% embed url="https://youtu.be/tUMeCUOyI00" %}
 
+## Resources for manual modding for DDS skins.
 
-
-
-
-
-
+List of hex offsets by MrSteyk(via Wayback Machine): [https://web.archive.org/web/20210725135838/https://gist.githubusercontent.com/mrsteyk/f9f853d93139cd395c1a49ab24b17b3d/raw/fdae77196a8f861c03373b243573096bd88406c0/common.rpak.log](https://web.archive.org/web/20210725135838/https://gist.githubusercontent.com/mrsteyk/f9f853d93139cd395c1a49ab24b17b3d/raw/fdae77196a8f861c03373b243573096bd88406c0/common.rpak.log)
