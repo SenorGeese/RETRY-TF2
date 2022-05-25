@@ -16,6 +16,7 @@
 * [Troubleshooting](Wiki/troubleshooting.md)
 * [Creating](Wiki/Create/README.md)
   * [Formats](Wiki/Create/Formats.md)
+  * [Texture Maps](Wiki/Create/texture-maps.md)
   * [Data](Wiki/Create/Data.md)
 
 ## Guides <a href="#Guide" id="Guide"></a>
