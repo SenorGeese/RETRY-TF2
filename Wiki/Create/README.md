@@ -1,17 +1,17 @@
-# Making
+# Creating
 
 ## Formats:
 
-{% content-ref url="../page-1.md" %}
-[page-1.md](../page-1.md)
+{% content-ref url="../formats.md" %}
+[formats.md](../formats.md)
 {% endcontent-ref %}
 
 Formats and possibilities with Titanfall 2 custom textures.
 
 ## Tools:
 
-{% content-ref url="../page-3.md" %}
-[page-3.md](../page-3.md)
+{% content-ref url="../Tools&Resources.md" %}
+[Tools\&Resources.md](../Tools\&Resources.md)
 {% endcontent-ref %}
 
 Commonly used tools within the community.

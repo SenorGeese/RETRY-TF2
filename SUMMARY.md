@@ -1,25 +1,25 @@
 # Table of contents
 
-## Welcome <a href="#hey" id="hey"></a>
+## Welcome <a href="#RETRY" id="RETRY"></a>
 
 * [RETRY Wiki](README.md)
-* [Contributing](hey/contributing.md)
-* [Contact](hey/contact.md)
-* [Credits](hey/credits.md)
+* [Contributing](RETRY/Contributing.md)
+* [Contact](RETRY/Contact.md)
+* [Credits](RETRY/Credits.md)
 
-## Wiki
+## Wiki <a href="#Wiki" id="Wiki"></a>
 
-* [Formats](wiki/page-1.md)
-* [Installing](wiki/installing/README.md)
-  * [DDS Format (tool)](wiki/installing/dds-format-tool.md)
-  * [VTF Format (manual)](wiki/installing/vtf-format-manual.md)
-* [Tools & Resources](wiki/page-3.md)
-* [Making](wiki/making/README.md)
-  * [Data](wiki/making/data.md)
-* [Exporting](wiki/exporting/README.md)
-  * [Exporting Textures](wiki/exporting/exporting-textures.md)
-  * [Exporting Models](wiki/exporting/exporting-models.md)
+* [Formats](Wiki/formats.md)
+* [Installing](Wiki/install/README.md)
+  * [DDS Format (tool)](Wiki/install/dds-format-tool.md)
+  * [VTF Format (manual)](Wiki/install/vtf-format-manual.md)
+* [Tools & Resources](Wiki/Tools\&Resources.md)
+* [Creating](Wiki/Create/README.md)
+  * [Data](Wiki/Create/data.md)
+* [Exporting](Wiki/Export/README.md)
+  * [Exporting Textures](Wiki/Export/exporting-textures.md)
+  * [Exporting Models](Wiki/Export/exporting-models.md)
 
-## Guides
+## Guides <a href="#Guides" id="Guides"></a>
 
-* [Getting a model into Blender](guides/getting-a-model-into-blender.md)
+* [Getting a model into Blender](Guides/TF2toBlender.md)
