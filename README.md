@@ -1,2 +1,2 @@
 # TF2-CustomTextures
-A repo for gitbook contributions.
+This is the hosting repository for the TF2-CustomTextures wiki.
