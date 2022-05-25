@@ -4,14 +4,26 @@ description: A page to honor those that have put time into this community projec
 
 # Credits
 
-### Research and Documentation
+### Research and Documentation:
 
 Thank to these awesome community members that put time and effort into creating an entire wiki and helping others about Modding.&#x20;
 
-|   People   |  Their Work  |
-| :--------: | :----------: |
-| SenorGoose |    Editor    |
-|    E3VL    | Editor, Help |
-|    H0L0    |  Ideas, Help |
+|   People   |    Their Work   |
+| :--------: | :-------------: |
+| SenorGoose | Editor, Founder |
+|    E3VL    |   Editor, Help  |
+|    H0L0    |   Ideas, Help   |
+|            |                 |
+
+### Secondary Information:
+
+People that have provided separate but useful information or help without official documentation.
+
+|   People   |  Where? |
+| :--------: | :-----: |
+|   Catbug   | NoSkill |
+| DirectXeon | NoSkill |
+|    Wanty   | NoSkill |
+|            |         |
 
 #### The end but not final. Come help!
