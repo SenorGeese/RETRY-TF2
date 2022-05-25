@@ -16,4 +16,4 @@ Link to this wiki: [https://retrywiki.gitbook.io/tf2/](https://retrywiki.gitbook
 
 Thanks to Gitbook for hosting and providing a space for our wiki and providing us with Community Edition.
 
-Our Github: [https://github.com/SenorGeese/TF2-CustomTextures](https://github.com/SenorGeese/TF2-CustomTextures)
+Our Github: [https://github.com/SenorGeese/RETRY-TF2](https://github.com/SenorGeese/RETRY-TF2)

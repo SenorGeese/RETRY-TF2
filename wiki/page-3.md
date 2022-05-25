@@ -18,11 +18,13 @@ Made by greishuh/Gracious, Titanfall2 DDS Tool is a tool with cmd ui to more man
 
 ## Resources:
 
-[TF2-CustomTextures (main branch)](https://github.com/SenorGeese/TF2-CustomTextures/tree/main): Github repo that contains community uploaded resources/files.
+[RETRY-TF2 (main branch)](https://github.com/SenorGeese/RETRY-TF2/tree/main): Our Github repo that contains community uploaded resources/files.
 
 [Titanfall-2-Skin-Modding](https://github.com/BigSpice/TitanFall\_2\_Weapon\_Skin\_Modding): Github repo that contains plenty of FBX's, MDL's, OBJ's, and SMD's TF2 models, textures, weapon masks, and weapon scripts.
 
-[Titanfall 2 Skin Creation Guide](https://titanfall-skin-group.gitbook.io/titanfall-2-skin-creation/): A past Gitbook wiki that has more step by step and in depth resources about the actual creation of skins and materials.
+[Titanfall 2 Skin Creation Guide Gitbook](https://titanfall-skin-group.gitbook.io/titanfall-2-skin-creation/): An old Gitbook that has more step by step and in depth guides of creative creation of skins and materials.
+
+[NoSkill Gitbook](https://noskill.gitbook.io/titanfall2/): A Titanfall 2 Modding Gitbook.
 
 ## 3D Editing:
 
