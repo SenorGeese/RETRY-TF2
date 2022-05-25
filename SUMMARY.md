@@ -1,13 +1,13 @@
 # Table of contents
 
-## Welcome <a href="#RETRY" id="RETRY"></a>
+## Welcome <a href="#retry" id="retry"></a>
 
 * [RETRY Wiki](README.md)
 * [Contributing](welcome/contributing.md)
 * [Contact](welcome/contact.md)
 * [Credits](welcome/credits.md)
 
-## Wiki <a href="#Wiki" id="Wiki"></a>
+## Wiki
 
 * [Tools](wiki/page-3.md)
 * [Installing](wiki/installing/README.md)
@@ -19,7 +19,7 @@
   * [Texture Maps](Wiki/Create/TextureMaps.md)
   * [Data](Wiki/Create/Data.md)
 
-## Guides <a href="#Guide" id="Guide"></a>
+## Guides <a href="#guide" id="guide"></a>
 
 * [Exporting](Guide/Export/README.md)
   * [Exporting Textures](Guide/Export/Textures.md)
