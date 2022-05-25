@@ -26,11 +26,50 @@ Made by greishuh/Gracious, Titanfall2 DDS Tool is a tool with cmd ui to more man
 
 ## 3D Editing:
 
-#### Blender -  [https://www.blender.org/](https://www.blender.org/)
+#### [Blender](https://www.blender.org/) -  "The Freedom to Create." (free, app)
 
-Free. 6/10 difficulty.
+#### [Substance Painter](https://www.substance3d.com/) - "Substance becomes Adobe Substance" (paid, app)
 
 
 
 ## 2D Editing:
 
+#### [GIMP](https://www.gimp.org/) - "GNU Image Manipulation Program" (free, app)
+
+#### [Affinity](https://affinity.serif.com/en-us/) - "Professional Image Editing Software" (paid, 50$ each)
+
+#### [**Adobe Photoshop**](https://www.adobe.com/products/photoshop.html) **- "The world is your canvas, so grab inspiration from all around you and have fun experimenting." (paid, app)**
+
+#### [Pixlr.com](https://pixlr.com/) - "online graphic designer" (free website)
+
+#### [Photopea](https://www.photopea.com/) - "Online Photo Editor" (free website)
+
+## Uncategorized:
+
+[**Pureref**](https://www.pureref.com/) **- "All your reference images in one place." (free, app)**
+
+#### [Coolors](https://coolors.co/) - "the super fast color scheme generator" (website)
+
+Coolors is a color palette generator with many options to find what you need.
+
+#### [Color Picker online](https://imagecolorpicker.com/) - "HEX Color Picker" (website)
+
+You can pick specific pixels and its the easiest when uploading my own images to rip colors from.
+
+#### [Autohotkey](https://www.autohotkey.com/) - "The ultimate automation scripting language for Windows"
+
+AutoHotkey is used by many to create custom keybind macros. Usually using a numpad as the macro start key. Find their website and info at [by clicking these words](https://www.autohotkey.com/). As coding goes, there is many ways to code macros. Personally i use the code below to refresh Photoshop file to update the skin in Blender;
+
+```
+Numpad1::send {ctrl down}{s down}{ctrl up}{s up}
+Numpad3::send {alt down}{r down}{alt up}{r up}
+Numpad2::send {ctrl down}{z down}{ctrl up}{z up}
+]::Suspend
+\::ExitApp
+```
+
+* Numpad1: Saves (CTRL+S)
+* Numpad2: Undo (CTRL+Z)
+* Numpad3: Reloads images in Blender with NodeWrangler (ALT+R)&#x20;
+
+####
