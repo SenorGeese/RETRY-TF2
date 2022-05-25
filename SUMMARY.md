@@ -5,8 +5,9 @@
 * [Custom Textures](README.md)
 * [Contributing](welcome/contributing.md)
 * [Contact](welcome/contact.md)
+* [Credits](welcome/credits.md)
 
 ## Wiki
 
-* [Page 3](wiki/page-3.md)
-* [Page 1](wiki/page-1.md)
+* [Tools](wiki/page-3.md)
+* [Formats](wiki/page-1.md)
