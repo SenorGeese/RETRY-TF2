@@ -13,3 +13,5 @@ The Gitbook wiki is found at: https://retrywiki.gitbook.io/tf2/.
 Thanks to Gitbook for hosting and providing a space for our wiki.
 
 ## This wiki strives to provide accurate, and updated infomation about custom textures and custom skins for Titanfall 2. RETRY is simply a shorter name to refrence the group of people working on the wiki and project. To enjoy free and fair knowledge.
+
+![v3](https://user-images.githubusercontent.com/87151598/170205540-84ca5b9e-66fe-4b81-9cac-abf356500b9c.png)
