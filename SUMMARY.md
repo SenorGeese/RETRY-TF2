@@ -17,10 +17,10 @@
 * [Creating](Wiki/Create/README.md)
   * [Formats](Wiki/Create/Formats.md)
   * [Data](Wiki/Create/Data.md)
-  * [Exporting](Wiki/Create/Export/README.md)
-    * [Exporting Textures](Wiki/Create/Export/Textures.md)
-    * [Exporting Models](Wiki/Create/Export/Models.md)
 
 ## Guides <a href="#Guide" id="Guide"></a>
 
+* [Exporting](Guide/Export/README.md)
+  * [Exporting Textures](Guide/Export/Textures.md)
+  * [Exporting Models](Guide/Export/Models.md)
 * [Getting a model into Blender](Guides/TF2toBlender.md)

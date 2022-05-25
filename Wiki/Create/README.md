@@ -26,8 +26,8 @@ Organized data to find your desired item under in-game code names.
 
 ## Exporting:
 
-{% content-ref url="Export/" %}
-[Export](Export/)
+{% content-ref url="../../Guide/Export/" %}
+[Export](../../Guide/Export/)
 {% endcontent-ref %}
 
 Pages regarding exporting.
