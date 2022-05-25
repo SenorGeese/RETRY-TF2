@@ -3,17 +3,17 @@
 ## Welcome <a href="#RETRY" id="RETRY"></a>
 
 * [RETRY Wiki](README.md)
-* [Contributing](RETRY/Contributing.md)
-* [Contact](RETRY/Contact.md)
-* [Credits](RETRY/Credits.md)
+* [Contributing](welcome/contributing.md)
+* [Contact](welcome/contact.md)
+* [Credits](welcome/credits.md)
 
 ## Wiki <a href="#Wiki" id="Wiki"></a>
 
-* [Formats](Wiki/formats.md)
-* [Installing](Wiki/install/README.md)
-  * [DDS Format (tool)](Wiki/install/dds-format-tool.md)
-  * [VTF Format (manual)](Wiki/install/vtf-format-manual.md)
-* [Tools & Resources](Wiki/Tools\&Resources.md)
+* [Formats](wiki/page-1.md)
+* [Installing](wiki/installing/README.md)
+  * [DDS Format (tool)](wiki/installing/dds-format-tool.md)
+  * [VTF Format (manual)](wiki/installing/vtf-format-manual.md)
+* [Tools & Resources](wiki/page-3.md)
 * [Creating](Wiki/Create/README.md)
   * [Data](Wiki/Create/data.md)
 * [Exporting](Wiki/Export/README.md)
