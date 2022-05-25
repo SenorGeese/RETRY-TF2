@@ -14,6 +14,6 @@ Created & Maintained by: RETRY (community)
 
 Link to this wiki: [https://retrywiki.gitbook.io/tf2/](https://retrywiki.gitbook.io/tf2/)
 
-Thanks to Gitbook for hosting and providing a space for our wiki.
+Thanks to Gitbook for hosting and providing a space for our wiki and providing us with Community edition.
 
 Our Github: [https://github.com/SenorGeese/TF2-CustomTextures](https://github.com/SenorGeese/TF2-CustomTextures)
