@@ -2,11 +2,11 @@
 description: Titanfall 2 Custom Skins & Textures Wiki
 ---
 
-# Titanfall 2 Custom Skins and Textures Wiki
+# RETRY Wiki
+
+## Titanfall 2 Custom Skins & Textures Wiki
 
 Created & Maintained by: RETRY
-
-## Welcome to the RETRY wiki.
 
 ## An open-source and community driven Custom Texture Wiki for Titanfall 2.
 
