@@ -16,9 +16,11 @@ Made by greishuh/Gracious, Titanfall2 DDS Tool is a tool with cmd ui to more man
 
 Edited by Strykus, Titanfall2 SkinTool is a tool. This tool can apply Titan skins and Attachment skins.
 
-## Catbug Tutorial
+## Direct Xeon Polished Skin Installion Video
 
 {% embed url="https://youtu.be/sG6LAoE1IjY" %}
+
+## Catbug Text & SS Tutorial
 
 Before we do anything else, you want to create a backup of the file `pc_stream.starpak`. You can locate it in the game directory here: `\Titanfall2\r2\paks\Win64`. It is the biggest file in the folder, about 10GB. Make sure the backups are not in the game directory, maybe put it in on your desktop. This is where the skins are stored.
 
@@ -58,11 +60,11 @@ Click `Import Skin` and you're done!
 If you don't see the skins in game (_in_ game, not the menu), you may need to turn up your texture filtering to at least 8x
 {% endhint %}
 
-## Videos:
+## Other Videos:
 
 {% embed url="https://youtu.be/trvO7t59FmU" %}
 
-## Manual Installation/Modding
+## Manual Installation/Modding Below:
 
 {% embed url="https://youtu.be/tUMeCUOyI00" %}
 
