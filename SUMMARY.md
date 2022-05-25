@@ -1,8 +1,8 @@
 # Table of contents
 
-## Before the Wiki <a href="#welcome" id="welcome"></a>
+## Welcome
 
-* [Custom Textures](README.md)
+* [RETRY Wiki](README.md)
 * [Contributing](welcome/contributing.md)
 * [Contact](welcome/contact.md)
 * [Credits](welcome/credits.md)
