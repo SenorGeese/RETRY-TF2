@@ -10,8 +10,8 @@ Formats and possibilities with Titanfall 2 custom textures.
 
 ## Tools:
 
-{% content-ref url="../Tools&Links.md" %}
-[Tools\&Links.md](../Tools\&Links.md)
+{% content-ref url="../../wiki/page-3.md" %}
+[page-3.md](../../wiki/page-3.md)
 {% endcontent-ref %}
 
 Commonly used tools within the community.

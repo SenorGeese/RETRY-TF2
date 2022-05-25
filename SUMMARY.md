@@ -9,7 +9,7 @@
 
 ## Wiki <a href="#Wiki" id="Wiki"></a>
 
-* [Tools](Wiki/Tools\&Links.md)
+* [Tools](wiki/page-3.md)
 * [Installing](wiki/installing/README.md)
   * [DDS Format (tool)](Wiki/Install/DDS.md)
   * [VTF Format (manual)](Wiki/Install/VTF.md)
