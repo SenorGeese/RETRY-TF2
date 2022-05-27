@@ -1,26 +1,26 @@
 # Table of contents
 
-## Welcome <a href="#retry" id="retry"></a>
+## 💱 About <a href="#retry" id="retry"></a>
 
-* [RETRY Wiki](README.md)
+* [➿ RETRY Wiki](README.md)
 * [Contributing](welcome/contributing.md)
 * [Contact](welcome/contact.md)
 * [Credits](welcome/credits.md)
 
-## Wiki
+## ♾ Wiki
 
 * [Tools](wiki/page-3.md)
-* [Installing](wiki/installing/README.md)
-  * [DDS Format (tool)](Wiki/Install/DDS.md)
-  * [VTF Format (manual)](Wiki/Install/VTF.md)
 * [Troubleshooting](Wiki/troubleshooting.md)
 * [Creating](Wiki/Create/README.md)
   * [Formats](Wiki/Create/Formats.md)
   * [Texture Maps](Wiki/Create/TextureMaps.md)
   * [Data](Wiki/Create/Data.md)
 
-## Guides <a href="#guide" id="guide"></a>
+## 〰 Guides <a href="#guide" id="guide"></a>
 
+* [Installing](guide/Installing/README.md)
+  * [DDS Format (tool)](guide/Installing/dds.md)
+  * [VTF Format (manual)](guide/Installing/vtf.md)
 * [Exporting](Guide/Export/README.md)
   * [Exporting Textures](Guide/Export/Textures.md)
   * [Exporting Models](Guide/Export/Models.md)
