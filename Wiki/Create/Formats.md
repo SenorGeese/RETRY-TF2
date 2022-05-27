@@ -16,12 +16,13 @@ These are not the only ways to customize a skin. You can innovate as always. If 
 
 VTF is the first found custom gun skin method. VTF custom skins take editing a path in a .mdl file to use the skin and script in the `client_mp_common.bsp.pak000_000.vpk` vpk or creating a vpk patch; `client_mp_common.bsp.pak000_228.vpk`.
 
-* Unshaded textures
 * Up to 4k skins
-* Animated skins (VMT options)
 * Viewed from afar
+* Unshaded textures
 * Works on low graphics
-* Can use transparency
+* Animated skins (VMT options)
+* Moving skins (VMT options)
+* Transparent skins (VMT options)
 
 ### DDS format <a href="#dds-format" id="dds-format"></a>
 
