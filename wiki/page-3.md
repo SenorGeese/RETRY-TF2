@@ -1,6 +1,6 @@
 # Tools
 
-## Titanfall related Tools:
+## Titanfall-Related Tools:
 
 ### [Titanfall2 SkinTool](https://github.com/Strykus/Titanfall2-SkinTool) - DDS Skin tool (recommended)
 
@@ -53,7 +53,7 @@ Made by MrSteyk, RSPNVPK's main purpose are to repack Titanfall 2 VPK's. This is
 
 #### [Toggle HUD Mod](https://www.moddb.com/games/titanfall-2/downloads/toggle-hud5) - a mod that allows for HUD toggling
 
-## Resources:
+## Titanfall-Related Resources:
 
 [RETRY-TF2 (main branch)](https://github.com/SenorGeese/RETRY-TF2/tree/main): Our Github repo that contains community uploaded resources/files.
 
@@ -65,7 +65,7 @@ Made by MrSteyk, RSPNVPK's main purpose are to repack Titanfall 2 VPK's. This is
 
 [ModdingDocs](https://r2northstar.readthedocs.io/en/latest/): A Spinx Doc about Northstar Titanfall 2 Modding.
 
-## Not Directly Titanfall Related:
+## Not Titanfall-Related:
 
 ## 3D Editing:
 
@@ -108,7 +108,7 @@ Made by MrSteyk, RSPNVPK's main purpose are to repack Titanfall 2 VPK's. This is
 
 #### [PowerToys](https://github.com/microsoft/PowerToys) - free, app, microsoft bloat that has many functions and a colorpicker
 
-## Not so General:
+## Other:
 
 #### [RAD Video Tools](http://www.radgametools.com/bnkdown.htm) - free, app, creates small efficient videos
 
@@ -119,6 +119,8 @@ Made by MrSteyk, RSPNVPK's main purpose are to repack Titanfall 2 VPK's. This is
 ### [7z](https://www.7-zip.org/) - free, software, packing and unpacking files.
 
 ### [Notepad++](https://notepad-plus-plus.org/downloads/) - free, app, text editor (if notepads was upgrade to lvl 69420)
+
+### [Greenshot ](https://github.com/greenshot/greenshot)- free, app, local or web-hosted, image-editable, screenshot software.
 
 #### [Atom](https://atom.io/) - free, app, code editor&#x20;
 
