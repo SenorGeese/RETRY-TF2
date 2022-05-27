@@ -40,7 +40,7 @@ After you extract the skin tool, run the application: (note, you may have to run
 
 First, you have to set the game path. Click `Set` and then `SetGamePath`. Locate `Titanfall2.exe` (or just the `Titanfall2` application if you don't have extensions on.
 
-![](../../.gitbook/assets/zxcpandora.png)
+![](<../../.gitbook/assets/zxcpandora (1).png>)
 
 ![](../../.gitbook/assets/fileman6.png)
 

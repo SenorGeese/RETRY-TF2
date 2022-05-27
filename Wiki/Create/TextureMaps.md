@@ -1,5 +1,9 @@
 # Texture Maps
 
+{% hint style="success" %}
+#### New and Corrected Texture Map at Bottom of this page!
+{% endhint %}
+
 ## Color Map:
 
 Common names: Color, Base, col, or Diffuse. \
@@ -83,3 +87,10 @@ Titanfall 2 doesn't have or use height maps. Although when making skins this is 
 
 "If you want a part of the gun to protrude more outwards it should be brighter then 0.5 luminance or if u want something to dent in it should be darker then 0.5 luminance. 0.5 is the base value and luminance is a pixels brightness."
 
+## New and Corrected Texture Map!
+
+![New Texture Linking Map](../../.gitbook/assets/texturemap.png)
+
+### Corrected, Custom-made, New, Texture Map!&#x20;
+
+Don't be shy to give recommendations to adjust it.
