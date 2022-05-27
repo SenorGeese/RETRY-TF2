@@ -21,7 +21,9 @@ Thank to these awesome community members that put time and effort into creating 
 |                   Name                  |                                                                   Link                                                                   |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
 |             NoSkill Gitbook             |                             [https://noskill.gitbook.io/titanfall2/](https://noskill.gitbook.io/titanfall2/)                             |
+|             NoSkill Discord             |                                         [https://discord.gg/sEgmTKg](https://discord.gg/sEgmTKg)                                         |
 | Titanfall 2 Skin Creation Group Gitbook | [https://titanfall-skin-group.gitbook.io/titanfall-2-skin-creation/](https://titanfall-skin-group.gitbook.io/titanfall-2-skin-creation/) |
 |               ModdingDocs               |                      [https://r2northstar.readthedocs.io/en/latest/](https://r2northstar.readthedocs.io/en/latest/)                      |
+|            Northstar Discord            |                                       [https://discord.gg/northstar](https://discord.gg/northstar)                                       |
 
 #### The end but not finalized. Come help!
