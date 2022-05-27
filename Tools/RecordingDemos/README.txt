@@ -1,0 +1,1 @@
+Demos or Theater mode is a rare feature in games where you can replay the events of a match. This 7z repack and youtube video inside is designed to help you get started with demos and record them and record cinematics with them. Pretty cool. I think they need more love. Demos/Theater mode is great.

@@ -1,0 +1,1 @@
+This 7z repack contains a handful of .bat scripts i found a long while ago that were made to help with VTF animation.
