@@ -13,6 +13,9 @@ The Gitbook wiki is found at: https://retryy.gitbook.io/tf2/.
 
 Thanks to Gitbook for hosting and providing a space for our wiki.
 
+# This is the RETRY Archives branch
+Just look in the repo lol.
+
 ### Goal for RETRY Titanfall 2
 
 The RETRY projects goal is to create a point of organization for the Titanfall 2 custom skin community and provide a collective place to host/archive our tools.
