@@ -1,5 +1,7 @@
 ---
-description: A page to honor those that have put time into this community project.
+description: >-
+  A page to honor those that have put time into this community project and where
+  we found our information.
 ---
 
 # Credits
@@ -14,18 +16,12 @@ Thank to these awesome community members that put time and effort into creating 
 |    E3VL    |     Wiki Editor, Help    |
 |    H0L0    | Wiki Editor, Ideas, Help |
 
-### Secondary Information:
+### References and Information:
 
-People that have provided separate but useful information or help without official documentation.
-
-|   People   |              Where?             |
-| :--------: | :-----------------------------: |
-|   Catbug   |             NoSkill             |
-|   Strykus  | Titanfall 2 Weapon Skin Modding |
-|    Wanty   |             NoSkill             |
-|    Alice   | Titanfall 2 Weapon Skin Modding |
-|    lexvi   | Titanfall 2 Weapon Skin Modding |
-| DirectXeon |             NoSkill             |
-|  Bigspice  | Titanfall 2 Weapon Skin Modding |
+|                   Name                  |                                                                   Link                                                                   |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+|             NoSkill Gitbook             |                             [https://noskill.gitbook.io/titanfall2/](https://noskill.gitbook.io/titanfall2/)                             |
+| Titanfall 2 Skin Creation Group Gitbook | [https://titanfall-skin-group.gitbook.io/titanfall-2-skin-creation/](https://titanfall-skin-group.gitbook.io/titanfall-2-skin-creation/) |
+|               ModdingDocs               |                      [https://r2northstar.readthedocs.io/en/latest/](https://r2northstar.readthedocs.io/en/latest/)                      |
 
 #### The end but not final. Come help!

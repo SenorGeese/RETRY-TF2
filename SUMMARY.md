@@ -9,15 +9,15 @@
 
 ## Wiki
 
-* [Tools](wiki/page-3.md)
-* [Installing](wiki/installing/README.md)
-  * [DDS Format (tool)](Wiki/Install/DDS.md)
-  * [VTF Format (manual)](Wiki/Install/VTF.md)
-* [Troubleshooting](Wiki/troubleshooting.md)
-* [Creating](Wiki/Create/README.md)
-  * [Formats](Wiki/Create/Formats.md)
-  * [Texture Maps](Wiki/Create/TextureMaps.md)
-  * [Data](Wiki/Create/Data.md)
+* [Tools](wiki/Tools.md)
+* [Installing](wiki/Installing/README.md)
+  * [DDS Format (tool)](wiki/Installing/dds.md)
+  * [VTF Format (manual)](wiki/Installing/vtf.md)
+* [Troubleshooting](wiki/Troubleshooting.md)
+* [Creating](wiki/Create/README.md)
+  * [Formats](wiki/Create/formats.md)
+  * [Texture Maps](wiki/Create/texturemaps.md)
+  * [Data](wiki/Create/data.md)
 
 ## Guides <a href="#guide" id="guide"></a>
 
