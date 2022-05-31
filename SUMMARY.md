@@ -10,11 +10,11 @@
 ## ♾ Wiki
 
 * [Tools](wiki/page-3.md)
+* [Creating](wiki/create/README.md)
+  * [Formats](wiki/create/formats.md)
+  * [Texture Maps](wiki/create/texturemaps.md)
+  * [Data](wiki/create/data.md)
 * [Troubleshooting](Wiki/troubleshooting.md)
-* [Creating](Wiki/Create/README.md)
-  * [Formats](Wiki/Create/Formats.md)
-  * [Texture Maps](Wiki/Create/TextureMaps.md)
-  * [Data](Wiki/Create/Data.md)
 
 ## 〰 Guides <a href="#guide" id="guide"></a>
 
