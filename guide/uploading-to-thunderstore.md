@@ -4,24 +4,34 @@ description: Uploading a skin to https://northstar.thunderstore.io/.
 
 # Uploading to Thunderstore
 
-### This guide will use an included template to help with organization. Found below.
+### We'll use the included template below to help us upload to Thunderstore.
 
-{% file src="../.gitbook/assets/V1.Skin_template_Thunderstore.zip" %}
-THIS ISN"T THE FINAL
-{% endfile %}
+{% file src="../.gitbook/assets/Template.zip" %}
 
-## 1. Your skin .zip placement
+{% hint style="success" %}
+Unzip the `Template.zip` file.
+{% endhint %}
 
-Replace `PLACEHOLDER_SKIN.ZIP.zip` with you own skin.
+### Here is the "Package Format Documentation" if you'd like: [https://thunderstore.io/package/create/docs/](https://thunderstore.io/package/create/docs/).
 
-This is found in `Skin_template_Thunderstore\Skin template Thunderstore\ZIP_ME_TO_UPLOAD\mods\PLACEHOLDER_SKIN_NAME\PLACEHOLDER_SKIN_ZIP.zip`.
+## 1. Skin .zip placement
+
+Replace `SKIN.zip` with you own skin.
+
+This is found in `Template\mods\SKIN_NAME\SKIN.zip`
+
+You can also rename the `SKIN_NAME` folder to your preferred skin name.
 
 ## 2. Thunderstore Mod Icon
 
-In `Skin_template_Thunderstore\Skin template Thunderstore\ZIP_ME_TO_UPLOAD\icon.png` replace `icon.png` with your own `icon.png`.&#x20;
+In `Template/mods/icon.png` replace `icon.png` with your own icon named `icon.png`.&#x20;
 
 {% hint style="success" %}
-Make sure your`icon.png` is 256x256 pixels in size.
+`icon.png` has to be 256x256 pixels in size.
+{% endhint %}
+
+{% hint style="info" %}
+This is the first thing people see when browsing Thunderstore.
 {% endhint %}
 
 If you need help with making this icon:
@@ -82,12 +92,58 @@ Rename the image and click 'Apply'
 
 ## 3. Customize your README.md
 
+{% hint style="info" %}
 .md file types stand for Markdown. You can still edit these with standard text editors (like Notepad).&#x20;
+{% endhint %}
 
-\*not sure what to add here\*
+It is recommended you use a previewer; either online or in a text editor. We can use [https://markdownlivepreview.com/](https://markdownlivepreview.com/) for this.&#x20;
 
-\*maybe add uploading image to imgur or something\*
+You can also use [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/) for syntax for formatting.
 
-## 4. Zip and Upload
+Or look at the README.md published on Thunderstore: [here](https://northstar.thunderstore.io/package/when\_you\_when\_i/SKIN\_NAME/0.0.2/).
 
-show you how to zip, make account, and upload (i got to sleep right now though)
+#### Just customize the README.md to your liking.
+
+Transfer from website. Save. Done
+
+## 4. Configure manifest.json
+
+{% hint style="info" %}
+To edit a .json files. Open them in text editors.
+{% endhint %}
+
+All you need to replace is `"SKIN_NAME",` and `"Description",`. Version number if you'd like.
+
+Save. Done.
+
+## 5. Finalizing the mod zip.
+
+#### Make sure to zip the files. Not a containing folder!
+
+So it's like this:
+
+![Correct pack.](../.gitbook/assets/screenshot-000027.png)
+
+Not like:
+
+![Incorrect pack.](../.gitbook/assets/screenshot-000028.png)
+
+You should now have your own `SKIN_NAME.zip` mod!
+
+## 6. Uploading to Thunderstore
+
+{% hint style="warning" %}
+You CANNOT remove your mods once they are published onto Thunderstore.
+{% endhint %}
+
+sign in (i did github)
+
+top left has upload
+
+use old packer
+
+do the requirements (skins, dds, nsfw if there is)
+
+## 7. Finished.
+
+{% embed url="https://imgs.search.brave.com/e8pOxYZ8d4AlICvXkOufp8H6HT_YZvxh_U8Ylw6IgrM/rs:fit:860:845:1/g:ce/aHR0cHM6Ly93d3cu/dmh2LnJzL2Rwbmcv/ZC85LTk1NTEyX3Ro/dW1icy11cC1lbW9q/aS1oZC1wbmctZG93/bmxvYWQucG5n" %}
