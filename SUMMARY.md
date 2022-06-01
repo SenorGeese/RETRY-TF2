@@ -2,7 +2,7 @@
 
 ## 💱 About <a href="#retry" id="retry"></a>
 
-* [➿ RETRY Wiki](README.md)
+* [➿ RETRY Wiki & Guides](README.md)
 * [Contributing](welcome/contributing.md)
 * [Contact](welcome/contact.md)
 * [Credits](welcome/credits.md)
