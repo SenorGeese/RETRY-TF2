@@ -24,5 +24,5 @@
 * [Exporting](Guide/Export/README.md)
   * [Exporting Textures](Guide/Export/Textures.md)
   * [Exporting Models](Guide/Export/Models.md)
-* [Uploading to Thunderstore](guide/uploading-to-thunderstore.md)
+* [Uploading to Thunderstore](guide/UploadToThunderstore.md)
 * [Getting a model into Blender](Guides/TF2toBlender.md)
