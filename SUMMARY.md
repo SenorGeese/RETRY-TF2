@@ -26,4 +26,4 @@
   * [Exporting Models](Guide/Export/Models.md)
 * [Uploading to Thunderstore](guide/UploadToThunderstore.md)
 * [Getting a model into Blender](Guides/TF2toBlender.md)
-* [Archive: Hex locating textures.](guide/archive-hex-locating-textures..md)
+* [Archive: Hex locating textures.](guide/hex-locate-textures.md)
