@@ -10,6 +10,10 @@ Edited by Strykus, Titanfall2 SkinTool is a tool. This tool can apply Titan skin
 
 Made by zxcPandora, Titanfall2 SkinTool is a Titanfall 2 and R5R tool with a UI to easily apply DDS skins that are formatted accordingly. This tool can apply weapon and pilot skins.
 
+{% hint style="warning" %}
+Skin Tool Dependency - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
+{% endhint %}
+
 ### [Titanfall2 DDS Tool](https://github.com/greishuhs/Titanfall2-DDS-Tool) - DDS Skin tool
 
 Made by greishuh/Gracious, Titanfall2 DDS Tool is a tool with cmd ui to more manually apply DDS weapon skins. Not recently updated.
