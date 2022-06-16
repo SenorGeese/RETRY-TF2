@@ -77,6 +77,7 @@ Made by MrSteyk, RSPNVPK's main purpose are to repack Titanfall 2 VPK's. This is
 
 * [BlenderSourceTools](https://steamreview.org/BlenderSourceTools/)
 * [SG\_Shader.blend](https://github.com/Wanty5883/Titanfall2/blob/master/tools/SG\_Shader.blend) - Has Titanfall 2 shader link.
+* [Layer Painter](https://joshuaknauber.gumroad.com/l/layerpainter) - Blender Layer Painter Add-on ([Github](https://github.com/joshuaKnauber/layer\_painter))
 
 #### [Substance Painter](https://www.substance3d.com/) - "Substance becomes Adobe Substance" (paid, app)
 
