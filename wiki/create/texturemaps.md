@@ -89,7 +89,7 @@ Titanfall 2 doesn't have or use height maps. Although when making skins this is 
 
 ## New and Corrected Texture Map!
 
-![New Texture Linking Map](../../.gitbook/assets/texturemap.png)
+![](../../.gitbook/assets/texturemap.png)
 
 ### Corrected, Custom-made, New, Texture Map!&#x20;
 
