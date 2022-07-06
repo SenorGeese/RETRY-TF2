@@ -113,6 +113,8 @@ Made by MrSteyk, RSPNVPK's main purpose are to repack Titanfall 2 VPK's. This is
 
 #### [PowerToys](https://github.com/microsoft/PowerToys) - free, app, microsoft bloat that has many functions and a colorpicker
 
+#### [Hew's dev notes](http://hewmc.blogspot.com/2012/12/rgb-to-percentage-converter.html) - website, converter, RGB/hex to percentage
+
 ## Other:
 
 #### [RAD Video Tools](http://www.radgametools.com/bnkdown.htm) - free, app, creates small efficient videos
