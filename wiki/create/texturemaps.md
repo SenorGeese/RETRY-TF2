@@ -20,7 +20,7 @@ Titanfall 2 name: "gls" or gloss map.
 
 ![CAR\_smg](../../.gitbook/assets/CAR\_smg\_gls.png)
 
-This map defines amount of 'shine' or light reflect-ability.
+This map defines concentrated 'shine' or light scattering.
 
 ## Specular:
 
@@ -29,7 +29,7 @@ Titanfall 2 name: "spc" or specular.
 
 ![CAR\_smg](../../.gitbook/assets/CAR\_smg\_spc.png)
 
-This map define how metallic your object will appear.
+This map defines your metallic-ness.
 
 ## Roughness:
 

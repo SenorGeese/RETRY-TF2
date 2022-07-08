@@ -10,11 +10,12 @@ description: >-
 
 Thank to these awesome community members that put time and effort into creating an entire wiki and helping others about Modding.&#x20;
 
-|   People   |        Their Work        |
-| :--------: | :----------------------: |
-| SenorGoose |   Wiki Editor, Founder   |
-|    E3VL    |     Wiki Editor, Help    |
-|    H0L0    | Wiki Editor, Ideas, Help |
+|    People   |      Their Work      |
+| :---------: | :------------------: |
+|  SenorGoose | Wiki Editor, Founder |
+| Nebustellar |   Wiki Contributor   |
+|     E3VL    |         Help         |
+|     H0L0    |      Ideas, Help     |
 
 ### References and Information:
 

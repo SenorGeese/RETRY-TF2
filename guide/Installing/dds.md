@@ -1,26 +1,44 @@
 # DDS Format (tool)
 
+### For [Troubleshooting](https://retryy.gitbook.io/tf2/wiki/Troubleshooting), Go to the page link below.
+
+{% content-ref url="../../Wiki/troubleshooting.md" %}
+[troubleshooting.md](../../Wiki/troubleshooting.md)
+{% endcontent-ref %}
+
+{% hint style="warning" %}
+Remember to backup `pc_stream.starpak` incase you want to delete your skins.
+{% endhint %}
+
 ## Tools:
+
+### (Recommended) [Titanfall2 SkinTool](https://github.com/Strykus/Titanfall2-SkinTool) - DDS Skin tool
+
+Edited by Strykus, Titanfall2 SkinTool is a Titanfall 2 skin tool. This tool can apply Titan skins and Attachment skins.
 
 ### [Titanfall2 SkinTool](https://github.com/zxcPandora/Titanfall2-SkinTool) - DDS Skin tool
 
 Made by zxcPandora, Titanfall2 SkinTool is a Titanfall 2 and R5R tool with a UI to easily apply DDS skins that are formatted accordingly. This tool can apply weapon and pilot skins.
 
+[Video using zxcPandora tool.](https://youtu.be/sG6LAoE1IjY?t=225)
+
 ### [Titanfall2 DDS Tool](https://github.com/greishuhs/Titanfall2-DDS-Tool) - DDS Skin tool
 
-Made by greishuh/Gracious, Titanfall2 DDS Tool is a tool with cmd ui to more manually apply DDS weapon skins. Not recently updated.
+Made by greishuh/Gracious, Titanfall2 DDS Tool is a tool with cmd ui to more manually apply DDS weapon skins. Not recently updated and mainly obsolete.
 
 [Video using Gracious tool.](https://youtu.be/1\_nSqO\_q3oA)
 
-### [Titanfall2 SkinTool](https://github.com/Strykus/Titanfall2-SkinTool) - DDS Skin tool
-
-Edited by Strykus, Titanfall2 SkinTool is a tool. This tool can apply Titan skins and Attachment skins.
-
-## Direct Xeon Polished Skin Installion Video
+## #1 Direct Xeon Polished Skin Installion Video
 
 {% embed url="https://youtu.be/sG6LAoE1IjY" %}
+DirectXeon's and NoSkill's Custom Skin Tutorial.
+{% endembed %}
 
-## Catbug Text & SS Tutorial
+This is the primary custom skin video. You will learn how custom skins works. Which types of custom skins are available. Importantly how to install custom skins.&#x20;
+
+## #2 Catbug's Text & ScreenShot Tutorial
+
+This was a Discord channel tutorial by catbug to help with installing custom skins.
 
 Before we do anything else, you want to create a backup of the file `pc_stream.starpak`. You can locate it in the game directory here: `\Titanfall2\r2\paks\Win64`. It is the biggest file in the folder, about 10GB. Make sure the backups are not in the game directory, maybe put it in on your desktop. This is where the skins are stored.
 
@@ -60,14 +78,14 @@ Click `Import Skin` and you're done!
 If you don't see the skins in game (_in_ game, not the menu), you may need to turn up your texture filtering to at least 8x
 {% endhint %}
 
-## Other Videos:
+## #3 Complete Skin Guide(Creation and Application):
 
 {% embed url="https://youtu.be/trvO7t59FmU" %}
 
-## Manual Installation/Modding Below:
+## #4 Manual Installation/Modding Below:
 
 {% embed url="https://youtu.be/tUMeCUOyI00" %}
 
-## Resources for manual modding for DDS skins.
+### Resources for manual modding for DDS skins.
 
 List of hex offsets by MrSteyk(via Wayback Machine): [https://web.archive.org/web/20210725135838/https://gist.githubusercontent.com/mrsteyk/f9f853d93139cd395c1a49ab24b17b3d/raw/fdae77196a8f861c03373b243573096bd88406c0/common.rpak.log](https://web.archive.org/web/20210725135838/https://gist.githubusercontent.com/mrsteyk/f9f853d93139cd395c1a49ab24b17b3d/raw/fdae77196a8f861c03373b243573096bd88406c0/common.rpak.log)

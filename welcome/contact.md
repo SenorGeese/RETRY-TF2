@@ -12,4 +12,4 @@ description: How to contact.
 
 #### You can also find us in #skins-chat in the Northstar Discord server at this Permanent and Public link: [https://discord.gg/northstar](https://discord.gg/northstar)
 
-#### You can also join our Discord server (optional) at this Permanent and Public link: [https://discord.gg/ce8HR7Ygvw](https://discord.gg/ce8HR7Ygvw)
+#### You can also join our Discord server at this Permanent and Public link: [https://discord.gg/ce8HR7Ygvw](https://discord.gg/ce8HR7Ygvw)
