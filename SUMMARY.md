@@ -16,7 +16,7 @@
   * [Data](wiki/create/data.md)
 * [Troubleshooting](Wiki/troubleshooting.md)
 
-## 〰 Guides <a href="#guide" id="guide"></a>
+## ➰ Guides <a href="#guide" id="guide"></a>
 
 * [Installing](guide/Installing/README.md)
   * [DDS Format (tool)](guide/Installing/dds.md)
@@ -26,5 +26,9 @@
   * [Exporting Models](Guide/Export/Models.md)
 * [Uploading to Thunderstore](guide/UploadToThunderstore.md)
 * [Getting a model into Blender](Guides/TF2toBlender.md)
-* [Archive: Hex locating textures.](guide/archive-hex-locate-textures.md)
-* [Archive: Adjusting left uv's.](guide/archive-leftside-uv.md)
+
+## 〰 Archives
+
+* [Hex locating textures.](archives/archive-hex-locate-textures.md)
+* [Adjusting left uv's.](archives/archive-leftside-uv.md)
+* [How to use R2RePak](archives/how-to-use-r2repak.md)
