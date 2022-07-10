@@ -1,6 +1,6 @@
-# Archive: Hex locating textures.
+# Hex locating textures.
 
-From the pins in #skins-chat in the Northstar Discord by Creamy. This is the archive of the pseudo guide.
+From the pins in #skins-chat in the Northstar Discord by Creamy. This is the archive of the pseudo guide. Discord Message Link at the bottom of the page.
 
 ## Content:
 
@@ -38,3 +38,7 @@ or This corrected and better texture map below!
 {% endhint %}
 
 ![](../.gitbook/assets/texturemap.png)
+
+### Discord Message Link:
+
+[https://discord.com/channels/920776187884732556/928271573977296957/933459114804260884](https://discord.com/channels/920776187884732556/928271573977296957/933459114804260884).

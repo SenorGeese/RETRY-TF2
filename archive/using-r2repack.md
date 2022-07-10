@@ -1,5 +1,7 @@
 # How to use R2RePak
 
+From the R2RePak thread in #research chat in the Northstar Discord by Spoon. This is the archive of the pseudo guide. Discord Message Link at the bottom of the page.
+
 ## **Setting things up**&#x20;
 
 ### 1 ) Build RePak
@@ -124,3 +126,7 @@ Drag and drop your rpak into the "paks" folder.
 {% file src="../.gitbook/assets/RPak.Tests.zip" %}
 Included Test .zip file.
 {% endfile %}
+
+### Discord Message Link:
+
+[https://discord.com/channels/920776187884732556/987730053439827998/988111160786190386](https://discord.com/channels/920776187884732556/987730053439827998/988111160786190386).

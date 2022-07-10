@@ -27,8 +27,8 @@
 * [Uploading to Thunderstore](guide/UploadToThunderstore.md)
 * [Getting a model into Blender](Guides/TF2toBlender.md)
 
-## 〰 Archives
+## 〰 Archives <a href="#archive" id="archive"></a>
 
-* [Hex locating textures.](archives/archive-hex-locate-textures.md)
-* [Adjusting left uv's.](archives/archive-leftside-uv.md)
-* [How to use R2RePak](archives/how-to-use-r2repak.md)
+* [Hex locating textures.](archive/hex-locate-textures.md)
+* [Adjusting left uv's.](archive/leftside-uv-bug.md)
+* [How to use R2RePak](archive/using-r2repack.md)
