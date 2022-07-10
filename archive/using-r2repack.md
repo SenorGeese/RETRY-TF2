@@ -130,3 +130,10 @@ Included Test .zip file.
 ### Discord Message Link:
 
 [https://discord.com/channels/920776187884732556/987730053439827998/988111160786190386](https://discord.com/channels/920776187884732556/987730053439827998/988111160786190386).
+
+### Things that might be useful:
+
+Glitch Loadscreen Change: [https://discord.com/channels/920776187884732556/987730053439827998/988136914819354654](https://discord.com/channels/920776187884732556/987730053439827998/988136914819354654)
+
+ReDecompress (decompress rpak files): [https://github.com/IcePixelx/ReDecompress](https://github.com/IcePixelx/ReDecompress)
+
