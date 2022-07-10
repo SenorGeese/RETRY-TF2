@@ -105,8 +105,6 @@ Made by MrSteyk, RSPNVPK's main purpose are to repack Titanfall 2 VPK's. This is
 
 #### [Texconv](https://github.com/microsoft/DirectXTex/wiki/Texconv) - Free, Command-line, Can DDS convert
 
-#### [TexconvGUI](https://vvvv.org/contribution/texconvgui) - Free, GUI, Can DDS convert, untested
-
 #### [PVRTexTool](https://developer.imaginationtech.com/pvrtextool/) - Free, GUI, can DDS convert, untested, weird sign in stuff
 
 #### [DDS Converter](https://vvvv.org/contribution/dds-converter) - Free, GUI, can DDS convert, untested
