@@ -9,6 +9,7 @@
 
 ## ♾ Wiki
 
+* [Wikis](wiki/the-selection.md)
 * [Tools](wiki/page-3.md)
 * [Creating](wiki/create/README.md)
   * [Formats](wiki/create/formats.md)
