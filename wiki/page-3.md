@@ -103,6 +103,14 @@ Made by MrSteyk, RSPNVPK's main purpose are to repack Titanfall 2 VPK's. This is
 
 #### [Photopea](https://www.photopea.com/) - Free, website
 
+#### [Texconv](https://github.com/microsoft/DirectXTex/wiki/Texconv) - Free, Command-line, Can DDS convert
+
+#### [PVRTexTool](https://developer.imaginationtech.com/pvrtextool/) - Free, GUI, can DDS convert, untested
+
+#### [NVIDIA Texture Tools Exporter](https://developer.nvidia.com/nvidia-texture-tools-exporter) - Free, GUI, can DDS convert
+
+#### [Intel Texture Works Plugin for Photoshop](https://www.intel.com/content/www/us/en/developer/articles/tool/intel-texture-works-plugin.html) - Free, GUI, Can DDS convert
+
 ## Colors:
 
 #### [Coolors](https://coolors.co/) - website, Color palette generator
