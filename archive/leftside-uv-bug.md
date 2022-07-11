@@ -4,6 +4,8 @@ From the pins in #skins-chat in the Northstar Discord by Creamy. This is the arc
 
 ## Content:
 
+![Also by Creamy](../.gitbook/assets/adjustinguvsgif.gif)
+
 ![](../.gitbook/assets/34.png)
 
 ![](../.gitbook/assets/35.png)
