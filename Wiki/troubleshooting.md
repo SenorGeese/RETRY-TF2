@@ -82,14 +82,10 @@ This is pretty rare. I've only heard of this issue happening 4 times.&#x20;
 To fix.&#x20;
 
 * Just save your current `autoexec.cfg`
-
-<!---->
-
-* Create a new `autoexec.cfg`
-
-<!---->
-
-* Copy and paste your previous commands.&#x20;
+* Create a new blank `autoexec.cfg`&#x20;
+* Run the game.
+* Close the game.
+* Edit `autoexec.cfg` to copy and paste your previous commands.&#x20;
 
 IF THIS DOESN'T WORK. Please share your commands to me for testing but we can get this to work.&#x20;
 
