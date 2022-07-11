@@ -1,10 +1,10 @@
 # Troubleshooting
 
-### Installation Successful but cannot see in-game:
+### General Troubleshooting
 
 <details>
 
-<summary>Solution 1: TF2 Video Settings</summary>
+<summary>TF2 Video Settings</summary>
 
 * Open Titanfall 2.
 * Navigate to Video settings.
@@ -15,7 +15,53 @@
 
 <details>
 
-<summary>Solution 2: NVIDIA Control Panel Settings</summary>
+<summary>Northstar Skin mods</summary>
+
+If the skin is reactive, animated or does something special outside of just basic textures, it's probably installed as a Northstar mod. Check the skin to see if it says to be installed as a mod.
+
+This includes the custom models such as the Cat ears. They are installed as Northstar mods.
+
+You don't need the skin tool for these Northstar mods.
+
+</details>
+
+<details>
+
+<summary>TF2 or  Northstar is running. Close it.</summary>
+
+Pretty simple. We cannot overwrite data in the starpak if it's busy being used by the game.&#x20;
+
+Close out of the game.
+
+</details>
+
+<details>
+
+<summary>Integrated Graphics</summary>
+
+You just can't use custom skins, as it requires Texture Streaming.
+
+This is likely because you are using a laptop, but not all laptops are the same. Some laptops will have dedicated GPU's which allow for Texture Streaming.
+
+</details>
+
+<details>
+
+<summary>NVIDIA Control Panel Settings</summary>
+
+\*If you have a Nvidia graphics card.\*
+
+* Open 'NVIDIA Control Panel'
+* Navigate to 3D Settings**>>**Adjust settings with preview&#x20;
+* Drag the Performance - Quality slider to 'Quality'.
+
+</details>
+
+### Installation Successful but cannot see in-game:
+
+<details>
+
+<summary>Solution 1: NVIDIA Control Panel Settings</summary>
 
 \*If you have a Nvidia graphics card.\*
 
@@ -27,7 +73,7 @@
 
 <details>
 
-<summary>Solution 3: Broken <code>autoexec.cfg</code> Commands </summary>
+<summary>Solution 2: Broken <code>autoexec.cfg</code> Commands </summary>
 
 Some `autoexec.cfg` commands can break or increase chance of breaking custom DDS skins.
 
