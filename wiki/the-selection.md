@@ -15,3 +15,7 @@
 ## RETRY Skin Modding Wiki
 
 #### Gitbook Wiki: [https://retryy.gitbook.io/tf2/](https://retryy.gitbook.io/tf2/)
+
+## Titanfall 2 Custom Skin Creation Wiki
+
+#### Gitbook Wiki: [https://titanfall-skin-group.gitbook.io/titanfall-2-skin-creation/](https://titanfall-skin-group.gitbook.io/titanfall-2-skin-creation/)
