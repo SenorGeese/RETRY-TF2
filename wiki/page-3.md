@@ -20,6 +20,10 @@ Made by greishuh/Gracious, Titanfall2 DDS Tool is a tool with cmd ui to more man
 
 [Video using Gracious tool.](https://youtu.be/1\_nSqO\_q3oA)
 
+### [VTOL](https://github.com/BigSpice/VTOL) - Northstar Download Manager
+
+Made by Bigspice, VTOL is a GUI tool that can do a WHOLE a lot of stuff. Although it's here because it can also install skins.
+
 ### [Titanfall VPK Tool](https://github.com/Wanty5883/Titanfall2/blob/master/tools/Titanfall\_VPKTool3.4\_Portable.zip) - VPK Tool
 
 Made by cra0, Titanfall VPKTool is a GUI tool to view, extract, and repack Titanfall VPK's.
