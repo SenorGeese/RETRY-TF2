@@ -23,6 +23,8 @@ This includes the custom models such as the Cat ears. They are installed as Nort
 
 You don't need the skin tool for these Northstar mods.
 
+So just disable the mod.
+
 </details>
 
 <details>
