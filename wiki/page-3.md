@@ -24,6 +24,10 @@ Made by greishuh/Gracious, Titanfall2 DDS Tool is a tool with cmd ui to more man
 
 Made by Bigspice, VTOL is a GUI tool that can do a WHOLE a lot of stuff. Although it's here because it can also install skins.
 
+### [Harmony VPK Tool](https://github.com/harmonytf/HarmonyVPKTool) - VPK Tool
+
+Made by Barnaby and p0358, Harmony VPK Tool is a GUI tool to view, extract, and repack Titanfall VPK's but 2x as fast than Titanfall VPK Tool below.
+
 ### [Titanfall VPK Tool](https://github.com/Wanty5883/Titanfall2/blob/master/tools/Titanfall\_VPKTool3.4\_Portable.zip) - VPK Tool
 
 Made by cra0, Titanfall VPKTool is a GUI tool to view, extract, and repack Titanfall VPK's.
