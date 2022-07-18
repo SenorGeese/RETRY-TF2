@@ -6,19 +6,19 @@ This is no longer the original guide. This is now an edited version of pseudo gu
 
 ## **Setting things up**&#x20;
 
-### 1 ) Build RePak or Download RePak.
+### 1 ) Get R2RePak.
 
-You can build from [https://github.com/ASpoonPlaysGames/RePak/tree/R2-not-bad](https://github.com/ASpoonPlaysGames/RePak/tree/R2-not-bad).
+You can build it from [https://github.com/ASpoonPlaysGames/RePak/tree/R2-not-bad](https://github.com/ASpoonPlaysGames/RePak/tree/R2-not-bad).
 
 or Download the from the Releases page on the Github; [https://github.com/ASpoonPlaysGames/RePak/releases](https://github.com/ASpoonPlaysGames/RePak/releases).
 
-But this guide will use the .zips names and config below.
+But this guide will use the names and files/folder found in the .zip below.
 
 {% file src="../.gitbook/assets/RePak-edited-1.0.0.zip" %}
 
-### 2 ) Project Folders
+### 2 ) RePak Folders
 
-In the folder where you have RePak.exe we have a folder called "assets" a folder called "config" and a folder called "rpaks"
+In the .zip you have RePak.exe and folders called "assets", "config", and "rpaks".
 
 the "assets" folder is where you will put your folder/file structure and textures etc.&#x20;
 
@@ -26,9 +26,9 @@ the "config" folder is where you will put the .json files which determine how th
 
 &#x20;the "rpaks" folder is where RePak will put the rpaks once they have been made&#x20;
 
-### 3 ) Make pack\_all.bat
+### 3 ) pack\_all.bat (included)
 
-&#x20;in the folder with RePak.exe, make a .bat file, i called mine "pack\_all.bat".&#x20;
+&#x20;In the folder with RePak.exe, make a .bat file, i called mine "pack\_all.bat".&#x20;
 
 Inside the .bat put
 
@@ -39,13 +39,13 @@ pause
 
 ## **Making your rpaks**&#x20;
 
-### 1 ) Make .json
+### 1 ) Make config.json
 
-&#x20;Make the .json file, give it a name, here it's named `config.json`.
+&#x20;Make the .json file, recommend `config.json` but it doesn't matter.
 
-### 2 ) Copy and paste in your .json
+### 2 ) Copy and paste
 
-go into the json file, and copy the following into it for now
+Go into the .json file, and copy the following into it for now
 
 ```
 {
@@ -83,7 +83,7 @@ go into the json file, and copy the following into it for now
 if your output folder and your asset folder have different names, be sure to change the "assetsDir" and "outputDir" respectively&#x20;
 {% endhint %}
 
-This is set up now to make a ronin nose art, you can change the paths in the .json to make it override other things. I removed everything but the \_col map.
+This is set up now to make a ronin nose art, you can change the paths in the .json to make it override other things. Included .zip removed everything but the \_col map.
 
 You can get the paths for things through Legion+.
 
