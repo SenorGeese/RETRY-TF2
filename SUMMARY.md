@@ -30,6 +30,8 @@
 
 ## 〰 Archives <a href="#archive" id="archive"></a>
 
+* [R2RePak](archive/repak/README.md)
+  * [Very bad docs](archive/repak/very-bad-docs.md)
+  * [How to use R2RePak](archive/repak/tutorial.md)
 * [Hex locating textures.](archive/hex-locate-textures.md)
 * [Adjusting left uv's.](archive/leftside-uv-bug.md)
-* [How to use R2RePak](archive/using-r2repack.md)
