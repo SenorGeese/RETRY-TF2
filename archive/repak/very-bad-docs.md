@@ -10,6 +10,12 @@ From the R2RePak thread in #research chat in the Northstar Discord
 saveDebugName does nothing for matls
 {% endhint %}
 
+### Ui related:
+
+{% hint style="info" %}
+uimgs = ui image atlas
+{% endhint %}
+
 {% hint style="info" %}
 ui is BC7U
 {% endhint %}
