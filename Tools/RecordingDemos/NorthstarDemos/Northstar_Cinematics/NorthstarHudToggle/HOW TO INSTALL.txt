@@ -1,0 +1,16 @@
+Install:
+First open the right folder depending on if you have a AMD or Nvidia graphics card. 
+
+Then in the .exe directory (Where NorthstarLauncher.exe) move or copy:
+Shaderfixes folder and d3dx.ini file
+
+Move or copy the rest of the .dll files in:
+Titanfall2\bin\x64_retail
+
+Use:
+Once ingame, press 'caps lock' to toggle the HUD on or off. 
+
+If you want to change the toggle key; simply open d3dx.ini and change;
+	
+[Key1]
+Key = caps
