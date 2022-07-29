@@ -36,3 +36,4 @@
   * [How to use R2RePak](archive/repak/tutorial.md)
 * [Hex locating textures.](archive/hex-locate-textures.md)
 * [Adjusting left uv's.](archive/leftside-uv-bug.md)
+* [Provoxin RGB | V1.3 (Outdated)](archive/provoxin-rgb-or-v1.3-outdated.md)
