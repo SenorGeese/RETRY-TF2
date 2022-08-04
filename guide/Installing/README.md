@@ -1,3 +1,7 @@
+---
+description: Installing Custom Skins
+---
+
 # Installing
 
 ### Installing DDS formatted skins (common)
