@@ -27,6 +27,7 @@
   * [Exporting Textures](Guide/Export/Textures.md)
   * [Exporting Models](Guide/Export/Models.md)
 * [Uploading to Thunderstore](guide/UploadToThunderstore.md)
+* [Making a Thunderstore Mod](guide/making-a-thunderstore-mod.md)
 * [Getting a model into Blender](Guides/TF2toBlender.md)
 
 ## 〰 Archives <a href="#archive" id="archive"></a>
