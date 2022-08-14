@@ -20,8 +20,8 @@ You can find the default skins at [TitanFall-2-Skin-Modding](https://github.com/
 
 Download and Install the Default skin as any other custom skin. If you need help check out the page link below.
 
-{% content-ref url="Install/dds.md" %}
-[dds.md](Install/dds.md)
+{% content-ref url="Installing/dds.md" %}
+[dds.md](Installing/dds.md)
 {% endcontent-ref %}
 
 ## #2  Replacing pc\_stream.starpak

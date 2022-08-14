@@ -19,9 +19,9 @@
 
 ## ➰ Guides <a href="#guide" id="guide"></a>
 
-* [Installing](guide/Install/README.md)
-  * [DDS Format (tool)](guide/Install/dds.md)
-  * [VTF Format (manual)](guide/Install/vtf.md)
+* [Installing](guide/Installing/README.md)
+  * [DDS Format (tool)](guide/Installing/dds.md)
+  * [VTF Format (manual)](guide/Installing/vtf.md)
 * [Uninstalling](guide/Uninstall.md)
 * [Exporting](Guide/Export/README.md)
   * [Exporting Textures](Guide/Export/Textures.md)
