@@ -8,7 +8,7 @@ description: Uninstalling Custom Skins
 You should have made a backup of pc\_stream.starpak before installing any skins.
 {% endhint %}
 
-## #1 Installing Default Skin
+## &#x20;Installing Default Skin
 
 {% hint style="info" %}
 This only works if you installed a custom skin via skin tool and .zip

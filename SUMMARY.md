@@ -23,6 +23,7 @@
   * [DDS Format (tool)](guide/Installing/dds.md)
   * [VTF Format (manual)](guide/Installing/vtf.md)
 * [Uninstalling](guide/Uninstall.md)
+* [Uninstalling](guide/uninstalling.md)
 * [Exporting](Guide/Export/README.md)
   * [Exporting Textures](Guide/Export/Textures.md)
   * [Exporting Models](Guide/Export/Models.md)
