@@ -8,7 +8,7 @@ description: What else should i clarify?
 
 ![](../.gitbook/assets/24-3.png)
 
-This guide will go in order of files added.
+This guide will go in order of files added. Make the folders or files needed.
 
 ## mods&#x20;
 
