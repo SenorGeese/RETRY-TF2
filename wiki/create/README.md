@@ -1,12 +1,4 @@
-# Creating
-
-## Tools:
-
-{% content-ref url="../page-3.md" %}
-[page-3.md](../page-3.md)
-{% endcontent-ref %}
-
-Useful tools and tools used within the community.
+# Details
 
 ## Formats:
 
