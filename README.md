@@ -30,3 +30,17 @@ The **Archive** is for saving important or pseudo guides found anywhere. These a
 #### Link to this wiki: [https://retryy.gitbook.io/tf2/](https://retryy.gitbook.io/tf2/)
 
 #### Link to the Github: [https://github.com/SenorGeese/RETRY-TF2](https://github.com/SenorGeese/RETRY-TF2)
+
+## Learn about Contributing, Contacting, and Credits below.
+
+{% content-ref url="retry/about/contributing.md" %}
+[contributing.md](retry/about/contributing.md)
+{% endcontent-ref %}
+
+{% content-ref url="retry/about/contact.md" %}
+[contact.md](retry/about/contact.md)
+{% endcontent-ref %}
+
+{% content-ref url="retry/about/credits.md" %}
+[credits.md](retry/about/credits.md)
+{% endcontent-ref %}

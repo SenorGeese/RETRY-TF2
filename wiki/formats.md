@@ -14,11 +14,11 @@ These are not the only ways to customize a skin. You can innovate as always. If 
 
 ### VTF format <a href="#vtf-format" id="vtf-format"></a>
 
-VTF is the first found custom gun skin method. VTF custom skins take editing a path in a .mdl file to use the skin and script in the `client_mp_common.bsp.pak000_000.vpk` vpk or creating a vpk patch; `client_mp_common.bsp.pak000_228.vpk`.
+VTF is the first found custom gun skin method. VTF skins are usually in VPKs. Controlled by their VMT files.&#x20;
 
 * Up to 4k skins
-* Viewed from afar
-* Unshaded textures
+* 'Unlimited' view distance
+* Only color and normal textures
 * Works on low graphics
 * Animated skins (VMT options)
 * Moving skins (VMT options)
@@ -26,13 +26,17 @@ VTF is the first found custom gun skin method. VTF custom skins take editing a p
 
 ### DDS format <a href="#dds-format" id="dds-format"></a>
 
-DDS is the 'best' custom skin method. DDS custom skins takes injecting skins into the games `pc_stream.starpak` file.
+DDS is the PBR supported custom skins. DDS skins are usually in RPAKs.&#x20;
 
-* Properly shaded skins
-* Distance based visibility; viewing from up close.
+* PBR or Properly shaded skins
 * Community made tools
-* high quantity high-quality skins
-* Most commonly used
+* High quantity, high-quality skins
+* Streamed DDS Skins
+  * Limited view distance
+  * No transparency
+* RePak RPAK DDS Skins
+  * 'Unlimited' view distance
+  * Transparency
 
 ## Format's possibilities <a href="#formats-possibilities" id="formats-possibilities"></a>
 

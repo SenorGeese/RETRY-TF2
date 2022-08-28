@@ -10,31 +10,13 @@
 Remember to backup `pc_stream.starpak` incase you want to delete your skins.
 {% endhint %}
 
-## Tools:
-
-### (Recommended) [Titanfall2 SkinTool](https://github.com/Strykus/Titanfall2-SkinTool) - DDS Skin tool
-
-Edited by Strykus, Titanfall2 SkinTool is a Titanfall 2 skin tool. This tool can apply Titan skins and Attachment skins.
-
-### [Titanfall2 SkinTool](https://github.com/zxcPandora/Titanfall2-SkinTool) - DDS Skin tool
-
-Made by zxcPandora, Titanfall2 SkinTool is a Titanfall 2 and R5R tool with a UI to easily apply DDS skins that are formatted accordingly. This tool can apply weapon and pilot skins.
-
-[Video using zxcPandora tool.](https://youtu.be/sG6LAoE1IjY?t=225)
-
-### [Titanfall2 DDS Tool](https://github.com/greishuhs/Titanfall2-DDS-Tool) - DDS Skin tool
-
-Made by greishuh/Gracious, Titanfall2 DDS Tool is a tool with cmd ui to more manually apply DDS weapon skins. Not recently updated and mainly obsolete.
-
-[Video using Gracious tool.](https://youtu.be/1\_nSqO\_q3oA)
-
 ## #1 Direct Xeon Polished Skin Installion Video
 
 {% embed url="https://youtu.be/sG6LAoE1IjY" %}
 DirectXeon's and NoSkill's Custom Skin Tutorial.
 {% endembed %}
 
-This is the primary custom skin video. You will learn how custom skins works. Which types of custom skins are available. Importantly how to install custom skins.&#x20;
+This is the primary custom skin video. You will learn how custom skins works. Which types of custom skins are available. Importantly how to install custom skins. Although you want Stryukus's tool not zxcPandoras skin tool.
 
 ## #2 Catbug's Text & ScreenShot Tutorial
 

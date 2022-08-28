@@ -46,7 +46,7 @@ Go to [https://pixlr.com/x/](https://pixlr.com/x/)
 
 Also found in&#x20;
 
-[#pixlr.com-free-website](../wiki/page-3.md#pixlr.com-free-website "mention")
+[#pixlr.com-free-website](Tools\(old\).md#pixlr.com-free-website "mention")
 
 ### Creating the Image
 
