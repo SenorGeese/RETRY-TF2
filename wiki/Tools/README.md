@@ -1,4 +1,4 @@
-# Tools(reworked)
+# Tools
 
 ## Titanfall Related Tools:
 
@@ -14,7 +14,7 @@ Custom skin related off-wiki resources or that one texture repo.
 
 ### Skin Tools
 
-Applications that are for installing or can install custom skins.
+Applications that are for installing or can install custom skins or the Advocate converter.
 
 {% content-ref url="skin-tools.md" %}
 [skin-tools.md](skin-tools.md)
