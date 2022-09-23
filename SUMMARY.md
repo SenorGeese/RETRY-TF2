@@ -38,7 +38,8 @@
 
 ## 〰 Archives <a href="#archive" id="archive"></a>
 
-* [R2RePak](archive/repak/README.md)
+* [RePak](archive/repak/README.md)
+  * [Working Materials Examples](archive/repak/working-materials-examples.md)
   * [Type List](archive/repak/type-list.md)
   * [Very bad docs](archive/repak/very-bad-docs.md)
   * [How to use R2RePak](archive/repak/tutorial.md)

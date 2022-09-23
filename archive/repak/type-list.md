@@ -8,7 +8,7 @@ type list:
 		gen: the only known use of this is for loadscreens.
 		wld: used for map/world materials.
 		fix: unsure what this does but in titanfall 2 most materials have a 'fix' counterpart, probably something to do with rendering?
-		rgd: no clue tbh.
+		rgd: not officially supported in tf|2.
 		skn: this is what models use, so pilots, guns, etc.
 		
 	version 16:
@@ -19,26 +19,11 @@ type list:
 	usage:
 		"type": "string"
 	
+note: most subtypes are cut because they're no longer needed.
 subtype list:
-	for gen: 
-		loadscreen: this is used for loadscreens (duh).
-	wld: none currently.
 	fix:
-		viewmodel: full texture set with working emissive texture in first person, but not in the world.
-		viewmodel_skn31: same as above but supports camo usage.
-		worldmodel: full texture set with working emissive texture in the world, but not in first person.
-		worldmodel_skn31: same as above but with camo.
-		worldmodel_noglow: full texture set sans emissive.
-		worldmodel_noglow_skn31: same as above but with camo support.
 		nose_art: used for nose art on titans.
-	rgd: none currently.
 	skn:
-		viewmodel: full texture set with working emissive texture in first person, but not in the world.
-		viewmodel_skn31: same as above but supports camo usage.
-		worldmodel: full texture set with working emissive texture in the world, but not in first person.
-		worldmodel_skn31: same as above but with camo.
-		worldmodel_noglow: full texture set sans emissive.
-		worldmodel_noglow_skn31: same as above but with camo support.
 		nose_art: used for nose art on titans.
 		
 		usage:
@@ -46,7 +31,7 @@ subtype list:
 
 visibilityflags:
 	opaque: your material will be opaque.
-	transparent: your material will be transparent, this does not work out of the box currently.
+	transparent: your material will be transparent, required for nose art.
 	colpass: use this if it's a colpass material.
 	none: use this if it's a loadscreen material.
 	
@@ -56,30 +41,36 @@ visibilityflags:
 faceflags:
 	6: normal outward drawing faces
 	7: outward drawing faces, but wireframe.
-	22: this is used for nose art.
+	16: this is used for nose art.
 	
 	usage:
-		"faceflags": Number
+		"faceflags": "HexAsString"
 	
-imageflags:
+flags:
 	I would avoid messing with these. However, for the daring see below.
-		normal materials: 1901312
-		loadscreens: 328448
+		normal materials: 1D0300
+		loadscreens: 50300
 		
 		usage:
-			"imageflags": Number
+			"flags": "HexAsString"
+			
+flags2:
+	very important stuff. just ask and I will help with the values.
 	
-selfillumtint:
+	usage:
+		"flags2": "HexAsString"
+	
+emissivetint:
 	this is needed if you wish to have an emissive texture, the format is as follows:
-		"selfillumtint": [rFloat, gFloat, bFloat, aFloat]
+		"emissivetint": [rFloat, gFloat, bFloat, aFloat]
 
-color2:
+albedotint:
 	this is set to all '1.0' by default, only change this if you want to adjust the color, the format is as follows:
-		"color2": [rFloat, gFloat, bFloat, aFloat]
+		"albedotint": [rFloat, gFloat, bFloat, aFloat]
 		
-detailtransform:
+uv1transform:
 	if you are making a material with a detail/camo texture, the format is as follows:
-		"detailtransform": [xScaleFloat, unkFloat, rotationFloat, yScaleFloat, xTransformFloat, yTransformFloat]
+		"uv1transform": [xScaleFloat, unkFloat, rotationFloat, yScaleFloat, xTransformFloat, yTransformFloat]
 		
 surface:
 	the surface for the material, see scripts/surfaceproperties.txt (titanfall 2) or scripts/surfaceproperties.rson (apex) for a valid surface list.
@@ -111,11 +102,15 @@ path:
 	usage:
 	 "path": "string"
 	 
+	example path: "models/humans/titanpilot_gsuits/pilot_medium_v_helmets/pilot_med_helmet_v1_skn_31"
+	 
 colpass:
 	the colpass for the material, the path should be the same as whatever you intend to use as your colpass.
 	
 	usage:
 		"colpass": "string"
+		
+	example path: "models/humans/titanpilot_gsuits/pilot_medium_v_helmets/pilot_med_helmet_v1_skn_31_colpass"
 		
 textures:
 	this is an array containing strings for the textures you want to use, these must be valid, existing textures within the rpak you a creating.
@@ -129,7 +124,7 @@ textures:
 		slot6 never used
 		slot7 never used
 		slot8 never used
-		slot9 _bm bumpmap
+		slot9 never used
 		slot10 never used
 		slot11 never used
 		slot12 _ao
@@ -144,13 +139,13 @@ textures:
 		slot21 never used
 		slot22 never used
 		the following are used on blend materials, for maps only. it is a second texture to blend into the main one.
-		slot23 _bm
+		slot23 _bm blendmap
 		slot24 _col
 		slot25 _nml 
 		slot26 _gls/_exp
 		slot27 _spc
 		
-	so, for a material of subtype viewmodel the texture array will look like:
+	so, for a material noramlly used on pilots the texture array will look like:
 		"textures":[ "_col",
 					"_nml",
 					"_gls",
@@ -164,6 +159,7 @@ textures:
 					"",
 					"_ao",
 					"_cav" ]
+
 ```
 
 ## Discord Message Link:
