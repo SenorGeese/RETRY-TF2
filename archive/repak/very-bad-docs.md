@@ -4,6 +4,14 @@ description: very bad docs
 
 # Very bad docs
 
+## The real RePak docs:
+
+{% embed url="https://r2northstar--64.org.readthedocs.build/en/64/guides/rpakmodding.html" %}
+Modding Docs
+{% endembed %}
+
+## Quick Notes:
+
 From the R2RePak thread in #research chat in the Northstar Discord
 
 {% hint style="info" %}
