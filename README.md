@@ -1,7 +1,6 @@
 ---
 cover: .gitbook/assets/RETRYv1_largespace.png
 coverY: 0
-layout: landing
 ---
 
 # ➿ RETRY Wiki & Guides
