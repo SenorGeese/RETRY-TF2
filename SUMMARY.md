@@ -27,8 +27,12 @@
 ## ➰ Guides <a href="#guide" id="guide"></a>
 
 * [Installing](guide/Installing/README.md)
-  * [DDS Format (tool)](guide/Installing/dds.md)
-  * [VTF Format (manual)](guide/Installing/vtf.md)
+  * [DDS (Tool assisted)](guide/Installing/dds.md)
+  * [VTF (Manual Modding)](guide/Install/vtf-manual-modding.md)
+* [Modding](guide/Mod/README.md)
+  * [DDS (rpak method)](guide/Mod/dds-rpak-method.md)
+  * [DDS (Streaming method)](guide/Mod/dds-streaming-method.md)
+  * [VTF (vpk method)](guide/Mod/vtf.md)
 * [Uninstalling](guide/Uninstall.md)
 * [Exporting](Guide/Export/README.md)
   * [Exporting Textures](Guide/Export/Textures.md)
