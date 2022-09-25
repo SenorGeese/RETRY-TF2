@@ -2,7 +2,7 @@
 description: Manual Installing VTF Skins.
 ---
 
-# VTF Format (manual)
+# VTF (vpk method)
 
 ## Introduction
 

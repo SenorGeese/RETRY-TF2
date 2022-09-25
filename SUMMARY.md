@@ -32,13 +32,14 @@
 * [Modding](guide/Mod/README.md)
   * [DDS (rpak method)](guide/Mod/dds-rpak-method.md)
   * [DDS (Streaming method)](guide/Mod/dds-streaming-method.md)
-  * [VTF (vpk method)](guide/Mod/vtf.md)
+  * [VTF (vpk method)](guide/Installing/vtf.md)
 * [Uninstalling](guide/Uninstall.md)
 * [Exporting](Guide/Export/README.md)
   * [Exporting Textures](Guide/Export/Textures.md)
   * [Exporting Models](Guide/Export/Models.md)
 * [Making a Thunderstore Mod](guide/making-a-thunderstore-mod.md)
 * [Getting a model into Blender](Guides/TF2toBlender.md)
+* [Provoxin RGB | V1.5.1](guide/provoxin-rgb-or-v1.5.1.md)
 
 ## 〰 Archives <a href="#archive" id="archive"></a>
 
