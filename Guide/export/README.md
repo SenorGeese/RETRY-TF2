@@ -6,12 +6,12 @@ description: About exporting assets from Titanfall 2.
 
 ## Exporting Textures
 
-{% content-ref url="Textures.md" %}
-[Textures.md](Textures.md)
+{% content-ref url="textures.md" %}
+[textures.md](textures.md)
 {% endcontent-ref %}
 
 ## Exporting Models
 
-{% content-ref url="Models.md" %}
-[Models.md](Models.md)
+{% content-ref url="models.md" %}
+[models.md](models.md)
 {% endcontent-ref %}

@@ -8,8 +8,8 @@ There won't be a tool.
 
 If you need vtf skins. Mod them yourselves. Docs found here:
 
-{% content-ref url="../Installing/vtf.md" %}
-[vtf.md](../Installing/vtf.md)
+{% content-ref url="../Mod/vtf.md" %}
+[vtf.md](../Mod/vtf.md)
 {% endcontent-ref %}
 
 and
@@ -22,8 +22,8 @@ Hello curious doc reader. Don't worry, unless you needed this tool to exist. The
 
 and
 
-{% content-ref url="../Installing/vtf.md" %}
-[vtf.md](../Installing/vtf.md)
+{% content-ref url="../Mod/vtf.md" %}
+[vtf.md](../Mod/vtf.md)
 {% endcontent-ref %}
 
 Goodluck.

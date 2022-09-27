@@ -24,14 +24,14 @@ This is the creative part so create whatever, however you like. You can create c
 
 These can help you get started with exporting models for reference.
 
-{% content-ref url="../../Guides/TF2toBlender.md" %}
-[TF2toBlender.md](../../Guides/TF2toBlender.md)
+{% content-ref url="../tf2toblender.md" %}
+[tf2toblender.md](../tf2toblender.md)
 {% endcontent-ref %}
 
 and
 
-{% content-ref url="../../Guide/Export/" %}
-[Export](../../Guide/Export/)
+{% content-ref url="../export/" %}
+[export](../export/)
 {% endcontent-ref %}
 
 ## Using RePak to create your rpak.

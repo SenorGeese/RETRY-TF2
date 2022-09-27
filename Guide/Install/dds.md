@@ -1,9 +1,9 @@
-# DDS Format (tool)
+# DDS (Tool assisted)
 
 ### For [Troubleshooting](https://retryy.gitbook.io/tf2/wiki/Troubleshooting), Go to the page link below.
 
-{% content-ref url="../../Wiki/troubleshooting.md" %}
-[troubleshooting.md](../../Wiki/troubleshooting.md)
+{% content-ref url="../../Wiki/Troubleshooting.md" %}
+[Troubleshooting.md](../../Wiki/Troubleshooting.md)
 {% endcontent-ref %}
 
 {% hint style="warning" %}
