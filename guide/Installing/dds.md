@@ -1,9 +1,9 @@
-# DDS (Tool assisted)
+# DDS (skintool)
 
 ### For [Troubleshooting](https://retryy.gitbook.io/tf2/wiki/Troubleshooting), Go to the page link below.
 
-{% content-ref url="../../Wiki/Troubleshooting.md" %}
-[Troubleshooting.md](../../Wiki/Troubleshooting.md)
+{% content-ref url="../../Wiki/troubleshooting.md" %}
+[troubleshooting.md](../../Wiki/troubleshooting.md)
 {% endcontent-ref %}
 
 {% hint style="warning" %}

@@ -2,8 +2,8 @@
 
 ## 1. RETRY Wiki
 
-{% content-ref url="../tf2toblender.md" %}
-[tf2toblender.md](../tf2toblender.md)
+{% content-ref url="../../Guides/TF2toBlender.md" %}
+[TF2toBlender.md](../../Guides/TF2toBlender.md)
 {% endcontent-ref %}
 
 Part of the process includes exporting and using a model.

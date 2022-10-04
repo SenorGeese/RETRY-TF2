@@ -9,7 +9,7 @@
 Common names: Color, Base, col, or Diffuse. \
 Titanfall 2 name: "col" or color map.
 
-![CAR\_smg](../../.gitbook/assets/CAR\_smg\_col.png)
+![CAR\_smg](../.gitbook/assets/CAR\_smg\_col.png)
 
 This map is for defining color.
 
@@ -18,7 +18,7 @@ This map is for defining color.
 Common names: Glossiness, Gloss, gls.\
 Titanfall 2 name: "gls" or gloss map.
 
-![CAR\_smg](../../.gitbook/assets/CAR\_smg\_gls.png)
+![CAR\_smg](../.gitbook/assets/CAR\_smg\_gls.png)
 
 This map defines concentrated 'shine' or light scattering.
 
@@ -27,7 +27,7 @@ This map defines concentrated 'shine' or light scattering.
 Common names: Specular, spec, or spc.\
 Titanfall 2 name: "spc" or specular.
 
-![CAR\_smg](../../.gitbook/assets/CAR\_smg\_spc.png)
+![CAR\_smg](../.gitbook/assets/CAR\_smg\_spc.png)
 
 This map defines your metallic-ness.
 
@@ -43,7 +43,7 @@ Some weapons use roughness over a glossiness map. Roughness maps use a combinati
 Common names: Ambient Occlusions, ao.\
 Titanfall 2 name: "ao" or ambient occlusion.
 
-![CAR\_smg](../../.gitbook/assets/CAR\_smg\_ao.png)
+![CAR\_smg](../.gitbook/assets/CAR\_smg\_ao.png)
 
 Ambient occlusion reduce amount of light reflected back. Acting like a kind of shadow map.
 
@@ -52,20 +52,20 @@ Ambient occlusion reduce amount of light reflected back. Acting like a kind of s
 Common names: Normal, nml.\
 Titanfall 2 name: "nml" or normal.
 
-![CAR\_smg (clean export)](../../.gitbook/assets/CAR\_smg\_nml.png)
+![CAR\_smg (clean export)](../.gitbook/assets/CAR\_smg\_nml.png)
 
 The normal map is designed to give the rendering engine a map to show the depth of a model without needing real 3D depth to reflect the direction of light.
 
 Normal maps disable there blue channel in order to save resources when in use. To view the channel in it's editable and desired condition you have to enable its blue channel.&#x20;
 
-![CAR\_smg (enable blue channel)](../../.gitbook/assets/CAR\_smg\_nml\(butblue\).png)
+![CAR\_smg (enable blue channel)](../.gitbook/assets/CAR\_smg\_nml\(butblue\).png)
 
 ## Illumination(Emission):
 
 Common names: Emission, Light, ilm, or Illumination.\
 Titanfall 2 name: "ilm" or Illumination.
 
-![CAR\_smg](../../.gitbook/assets/CAR\_smg\_ilm.png)
+![CAR\_smg](../.gitbook/assets/CAR\_smg\_ilm.png)
 
 This map tells which parts are supposed to glow or emit light or glow. This doesn't affect the colour underneath.
 
@@ -74,7 +74,7 @@ This map tells which parts are supposed to glow or emit light or glow. This does
 Common names: cavity, cav.\
 Titanfall 2 name: "cav" or cavity.
 
-![CAR\_smg](../../.gitbook/assets/CAR\_smg\_cav.png)
+![CAR\_smg](../.gitbook/assets/CAR\_smg\_cav.png)
 
 Cavity maps is for the smallest and tightest crevasses but acts like Ambient Occlusion maps. We've only seen Titanfall 2 use this map.
 
@@ -89,7 +89,7 @@ Titanfall 2 doesn't have or use height maps. Although when making skins this is 
 
 ## New and Corrected Texture Map!
 
-![](../../.gitbook/assets/texturemap.png)
+![](../.gitbook/assets/texturemap.png)
 
 ### Corrected, Custom-made, New, Texture Map!&#x20;
 

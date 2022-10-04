@@ -1,4 +1,4 @@
-# VTF (Manual Modding)
+# VTF (manual modding)
 
 ## TLDR
 
@@ -8,13 +8,17 @@ There won't be a tool.
 
 If you need vtf skins. Mod them yourselves. Docs found here:
 
-{% content-ref url="../Mod/vtf.md" %}
-[vtf.md](../Mod/vtf.md)
+{% content-ref url="../Installing/vtf.md" %}
+[vtf.md](../Installing/vtf.md)
 {% endcontent-ref %}
 
 and
 
-[https://r2northstar--67.org.readthedocs.build/en/67/guides/VTFModding.html](https://r2northstar--67.org.readthedocs.build/en/67/guides/VTFModding.html).
+[https://r2northstar--67.org.readthedocs.build/en/67/guides/VTFModding.html](https://r2northstar--67.org.readthedocs.build/en/67/guides/VTFModding.html)&#x20;
+
+or&#x20;
+
+this garbage [https://r2northstar.readthedocs.io/en/latest/guides/VTFModding.html](https://r2northstar.readthedocs.io/en/latest/guides/VTFModding.html)
 
 ## Lore?
 
@@ -22,8 +26,8 @@ Hello curious doc reader. Don't worry, unless you needed this tool to exist. The
 
 and
 
-{% content-ref url="../Mod/vtf.md" %}
-[vtf.md](../Mod/vtf.md)
+{% content-ref url="../Installing/vtf.md" %}
+[vtf.md](../Installing/vtf.md)
 {% endcontent-ref %}
 
 Goodluck.

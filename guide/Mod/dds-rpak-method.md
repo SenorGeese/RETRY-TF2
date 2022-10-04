@@ -8,9 +8,9 @@ All texture maps. Custom materials. Unlimited range. Mipmaps. UI.
 
 This DDS rpak skinning method has three main processes.&#x20;
 
-* [ ] [Creating your custom textures.](https://app.gitbook.com/o/VmMzDL6RhTQFmYNRZMd9/s/z2f8BXwKo4kqhtL6lDjN/\~/changes/9zt44YAMerx485N6VTwV/guide/modding/dds-rpak-method#undefined)
-* [ ] [Using RePak to create your rpak.](https://app.gitbook.com/o/VmMzDL6RhTQFmYNRZMd9/s/z2f8BXwKo4kqhtL6lDjN/\~/changes/9zt44YAMerx485N6VTwV/guide/modding/dds-rpak-method#using-repak-to-create-your-rpak.)
-* [ ] [Northstar mod implementation.](https://app.gitbook.com/o/VmMzDL6RhTQFmYNRZMd9/s/z2f8BXwKo4kqhtL6lDjN/\~/changes/9zt44YAMerx485N6VTwV/guide/modding/dds-rpak-method#northstar-mod-implementation.)
+* [ ] [Creating your custom textures.](https://retryy.gitbook.io/tf2/Guide/Mod/dds-rpak-method#creating-your-custom-textures.)
+* [ ] [Using RePak to create your rpak.](https://retryy.gitbook.io/tf2/Guide/Mod/dds-rpak-method#using-repak-to-create-your-rpak.)
+* [ ] [Northstar mod implementation.](https://retryy.gitbook.io/tf2/Guide/Mod/dds-rpak-method#northstar-mod-implementation.)
 
 ## Tools
 
@@ -24,14 +24,14 @@ This is the creative part so create whatever, however you like. You can create c
 
 These can help you get started with exporting models for reference.
 
-{% content-ref url="../tf2toblender.md" %}
-[tf2toblender.md](../tf2toblender.md)
+{% content-ref url="../../Guides/TF2toBlender.md" %}
+[TF2toBlender.md](../../Guides/TF2toBlender.md)
 {% endcontent-ref %}
 
 and
 
-{% content-ref url="../export/" %}
-[export](../export/)
+{% content-ref url="../../Guide/Export/" %}
+[Export](../../Guide/Export/)
 {% endcontent-ref %}
 
 ## Using RePak to create your rpak.

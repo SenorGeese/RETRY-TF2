@@ -12,6 +12,6 @@ description: Installing Custom Skins
 
 ### Installing VTF formatted skin (not common)
 
-{% content-ref url="../Mod/vtf.md" %}
-[vtf.md](../Mod/vtf.md)
+{% content-ref url="vtf.md" %}
+[vtf.md](vtf.md)
 {% endcontent-ref %}

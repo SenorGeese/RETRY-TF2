@@ -2,7 +2,7 @@
 description: Data to locate what you need within game files.
 ---
 
-# Data
+# Tables
 
 ## Internal Names:&#x20;
 
