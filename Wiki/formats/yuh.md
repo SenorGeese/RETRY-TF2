@@ -8,7 +8,7 @@ coverY: 0
 
 ## The Context
 
-### **IF YOU DONT READ THIS, I'll kill BT third time.**
+### **IF YOU DONT READ THIS, I'll kill BT a third time.**
 
 You're here because you want to use custom skins and have no idea what you're talking about. We don't want to waste our time and your time.&#x20;
 
@@ -73,7 +73,7 @@ They should appear like the common Northstar mod.&#x20;
 #### If you still need more clarification.
 
 * Reread the wiki page (It took me 1 hour to create and organize this one section).&#x20;
-* Then think about for 30 seconds.
+* Then think about it for 30 seconds.
 * Then ask us clarifying questions.
 
 ### DDS (skintool method)
@@ -89,7 +89,7 @@ The "skintool"s we are talking about are
 * Strykus's Fork skintool: [https://github.com/Strykus/Titanfall2-SkinTool](https://github.com/Strykus/Titanfall2-SkinTool)
 * zxcPandoras skintool: [https://github.com/zxcPandora/Titanfall2-SkinTool](https://github.com/zxcPandora/Titanfall2-SkinTool)
 
-Images of skintools UI (there is no visual between the two)
+Images of skintools UI (there is no visual difference between the two)
 
 ![](../../.gitbook/assets/302-0.png)
 
@@ -101,19 +101,19 @@ and they have 4096, 2048, 1024, 512 folders inside.&#x20;
 
 This is the worst skin method.&#x20;
 
-Use[ Advocate ](https://retryy.gitbook.io/tf2/Wiki/Tools/skin-tools#advocate-skintool-to-rpak-mod-converter)to convert 'DDS (skintool method)' to 'DDS (rpak method)'. Will improve quality.
+Use[ Advocate ](https://retryy.gitbook.io/tf2/Wiki/Tools/skin-tools#advocate-skintool-to-rpak-mod-converter)to convert 'DDS (skintool method)' to 'DDS (rpak method)'. Will improve quality. (Recommended)&#x20;
+
+If you wish to use the skintool regardless you are free to do so. (Not recommended)&#x20;
 
 ### VTF (vpk method)
 
 **Installed manually with a hex editor and vpks.**
 
-Send us screenshots. I have no idea how to identify this method simply. You are probably just no idea what's going on and how to actually get skins in the game properly.
+These should just be loose VTF, VMT and/or VPK files, most importantly there wouldnt be a mod.json file. In order to install one please follow the [NoSkill guide](https://noskill.gitbook.io/titanfall2/Modding/CustomSkins/Install/VTF).&#x20;
 
 OR
 
 You might just be using a skin that using vtfs to make it cooler. These just install like a normal Northstar mod. They should basically be 'DDS (rpak method)' mixed with 'VTF (vpk method)'.&#x20;
-
-They should just look like
 
 <figure><img src="../../.gitbook/assets/rpak-insidearpakskin.png" alt=""><figcaption></figcaption></figure>
 
