@@ -1,5 +1,7 @@
 ---
 description: Explaining the 3 different types of custom skins methods.
+cover: ../../.gitbook/assets/CAR_smg_col.png
+coverY: 0
 ---
 
 # yuh
@@ -8,9 +10,9 @@ description: Explaining the 3 different types of custom skins methods.
 
 ### **IF YOU DONT READ THIS, I'll kill BT third time.**
 
-You're here because you want to use custom skins and have no idea what you're talking about. We don't want to waste our time and your time with asking awkwardly detailed questions.&#x20;
+You're here because you want to use custom skins and have no idea what you're talking about. We don't want to waste our time and your time.&#x20;
 
-**Pay attention.** **You're going to have to tell us exactly which method you're attempting** to install after you read this.
+**Pay attention.** **You're going to have to tell us exactly which method you're attempting** to install. Use this wiki page to compare and find out which method you're using.
 
 ### There is 3 types of custom skinning methods.
 
@@ -24,19 +26,27 @@ The hyperlinks link to how to install each type.
     **Installed with skintools.** This is bad. Stop using this.&#x20;
 *   ****[**VTF (vpk method)**](https://retryy.gitbook.io/tf2/Guide/Install/vtf-manual-modding)****
 
-    **Installed manually.** This is good for modders. Don't touch this (unless you want to).&#x20;
+    **Installed manually or as mod.** These are the animated and moving skins.&#x20;
 
 ## The Comparison
 
+Time to compare these common traits, so you can identify the type of skin you're trying to use.
+
 ### DDS (rpak method)
+
+You'll usually get these from the #skin-collection Discord channel or on [Thunderstore](https://northstar.thunderstore.io/).
+
+This is the best overall method, most supported, recommended, and installed just like any other Northstar mod.&#x20;
 
 {% hint style="info" %}
 The tool used to make these goes by RePak, but you never actually use it.
 {% endhint %}
 
+### Checking for DDS (rpak method)
+
 #### Check the mod advertisement.
 
-A good modder will have context on their mod download/advertisement. Check for "installed as a mod", "mod", "thunderstore mod".
+A good modder will have context on their mod download/advertisement. Check for "installed as a mod", "mod", "thunderstore mod".&#x20;
 
 <figure><img src="../../.gitbook/assets/rpak-checkad.png" alt=""><figcaption><p>Custom skin with proper installation label. </p></figcaption></figure>
 
@@ -70,6 +80,8 @@ They should appear like the common Northstar mod.&#x20;
 
 **Installed with a "skintool".**
 
+### Checking for DDS (skintool method)
+
 #### SkinTool
 
 The "skintool"s we are talking about are
@@ -85,8 +97,24 @@ Images of skintools UI (there is no visual between the two)
 
 You usually download a zip from #skin-collection in Discord
 
+and they have 4096, 2048, 1024, 512 folders inside.&#x20;
+
+This is the worst skin method.&#x20;
+
+Use[ Advocate ](https://retryy.gitbook.io/tf2/Wiki/Tools/skin-tools#advocate-skintool-to-rpak-mod-converter)to convert 'DDS (skintool method)' to 'DDS (rpak method)'. Will improve quality.
+
 ### VTF (vpk method)
 
 **Installed manually with a hex editor and vpks.**
 
 Send us screenshots. I have no idea how to identify this method simply. You are probably just no idea what's going on and how to actually get skins in the game properly.
+
+OR
+
+You might just be using a skin that using vtfs to make it cooler. These just install like a normal Northstar mod. They should basically be 'DDS (rpak method)' mixed with 'VTF (vpk method)'.&#x20;
+
+They should just look like
+
+<figure><img src="../../.gitbook/assets/rpak-insidearpakskin.png" alt=""><figcaption></figcaption></figure>
+
+but with additional folders. Just install them any other mod.
