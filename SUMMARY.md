@@ -21,7 +21,7 @@
   * [Color Tools](wiki/Tools/color-tools.md)
   * [General PC Tools](wiki/Tools/general-pc-tools.md)
 * [Formats](wiki/formats.md)
-  * [YOU GOT SENT HERE XD](Wiki/formats/you-got-sent-here-xd.md)
+  * [yuh](Wiki/formats/yuh.md)
 * [Texture Maps](wiki/texturemaps.md)
 * [Tables](wiki/data.md)
 * [Troubleshooting](Wiki/troubleshooting.md)
