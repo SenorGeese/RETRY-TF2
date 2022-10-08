@@ -23,8 +23,10 @@
   * [General PC Tools](wiki/Tools/general-pc-tools.md)
 * [Formats](wiki/formats.md)
   * [yuh](Wiki/formats/yuh.md)
-* [Texture Maps](wiki/texturemaps.md)
-* [Tables](wiki/data.md)
+* [References](Wiki/references/README.md)
+  * [Tables](Wiki/references/data.md)
+  * [Graphics](Wiki/references/graphics.md)
+  * [Texture Maps](Wiki/references/texturemaps.md)
 * [Troubleshooting](Wiki/troubleshooting.md)
 
 ## ➰ Guides <a href="#Guide" id="Guide"></a>

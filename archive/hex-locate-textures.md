@@ -37,7 +37,7 @@ If you still have trouble pinpointing which texture are you looking at based on 
 or This corrected and better texture map below!
 {% endhint %}
 
-![](../.gitbook/assets/texturemap.png)
+![](<../.gitbook/assets/texturemap (1).png>)
 
 ### Discord Message Link:
 

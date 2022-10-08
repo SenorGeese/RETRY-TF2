@@ -36,14 +36,6 @@ Applications that are for viewing and exporting rpak assets.
 [legion-tools.md](legion-tools.md)
 {% endcontent-ref %}
 
-### Helper References&#x20;
-
-Resources for helpers to give you a reference or visual.
-
-{% content-ref url="../../Wiki/Tools/helper-references.md" %}
-[helper-references.md](../../Wiki/Tools/helper-references.md)
-{% endcontent-ref %}
-
 ### [mdlshit](https://github.com/headassbtw/mdlshit-binaries) - MDL Tool
 
 ### [VTFEdit](https://github.com/Wanty5883/Titanfall2/blob/master/tools/vtfedit133.zip) - VTF Tool
