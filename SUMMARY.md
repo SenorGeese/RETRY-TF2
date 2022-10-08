@@ -12,7 +12,8 @@
 * [Wikis](wiki/the-selection.md)
 * [Tools](wiki/Tools/README.md)
   * [Websites](wiki/Tools/websites.md)
-  * [Skin Tools](wiki/Tools/skin-tools.md)
+  * [Skin Tools](Wiki/Tools/skin-tools/README.md)
+    * [Skintools (skintool method)](Wiki/Tools/skin-tools/skintools-skintool-method.md)
   * [VPK Tools](wiki/Tools/vpk-tools.md)
   * [Legion Tools](wiki/Tools/legion-tools.md)
   * [Helper References](Wiki/Tools/helper-references.md)
@@ -29,7 +30,7 @@
 ## ➰ Guides <a href="#Guide" id="Guide"></a>
 
 * [Installing](guide/Installing/README.md)
-  * [DDS (skintool)](guide/Installing/dds.md)
+  * [DDS (skintool method)](guide/Installing/dds.md)
   * [VTF (manual modding)](guide/Install/vtf-manual-modding.md)
 * [Modding](guide/Mod/README.md)
   * [DDS (rpak method)](guide/Mod/dds-rpak-method.md)

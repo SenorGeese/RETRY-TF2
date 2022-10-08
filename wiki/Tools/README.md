@@ -14,10 +14,10 @@ Custom skin related off-wiki resources or that one texture repo.
 
 ### Skin Tools
 
-Applications that are for installing or can install custom skins or the Advocate converter.
+Applications that are for installing or can install custom skins.
 
-{% content-ref url="skin-tools.md" %}
-[skin-tools.md](skin-tools.md)
+{% content-ref url="../../Wiki/Tools/skin-tools/" %}
+[skin-tools](../../Wiki/Tools/skin-tools/)
 {% endcontent-ref %}
 
 ### VPK Tools
@@ -43,6 +43,8 @@ Resources for helpers to give you a reference or visual.
 {% content-ref url="../../Wiki/Tools/helper-references.md" %}
 [helper-references.md](../../Wiki/Tools/helper-references.md)
 {% endcontent-ref %}
+
+### [mdlshit](https://github.com/headassbtw/mdlshit-binaries) - MDL Tool
 
 ### [VTFEdit](https://github.com/Wanty5883/Titanfall2/blob/master/tools/vtfedit133.zip) - VTF Tool
 

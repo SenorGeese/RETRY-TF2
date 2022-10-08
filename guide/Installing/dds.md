@@ -1,4 +1,4 @@
-# DDS (skintool)
+# DDS (skintool method)
 
 ### For [Troubleshooting](https://retryy.gitbook.io/tf2/wiki/Troubleshooting), Go to the page link below.
 
@@ -16,7 +16,11 @@ Remember to backup `pc_stream.starpak` incase you want to delete your skins.
 DirectXeon's and NoSkill's Custom Skin Tutorial.
 {% endembed %}
 
-This is the primary custom skin video. You will learn how custom skins works. Which types of custom skins are available. Importantly how to install custom skins. Although you want Stryukus's tool not zxcPandoras skin tool.
+{% hint style="warning" %}
+Use [Stryukus's skintool](https://github.com/Strykus/Titanfall2-SkinTool) and not [zxcPandoras skintool](https://github.com/zxcPandora/Titanfall2-SkinTool).
+{% endhint %}
+
+This is the primary custom skin video. You will learn how custom skins works. Which types of custom skins are available. Importantly how to install custom skins.&#x20;
 
 ## #2 Catbug's Text & ScreenShot Tutorial
 
@@ -63,11 +67,3 @@ If you don't see the skins in game (_in_ game, not the menu), you may need to tu
 ## #3 Complete Skin Guide(Creation and Application):
 
 {% embed url="https://youtu.be/trvO7t59FmU" %}
-
-## #4 Manual Installation/Modding Below:
-
-{% embed url="https://youtu.be/tUMeCUOyI00" %}
-
-### Resources for manual modding for DDS skins.
-
-List of hex offsets by MrSteyk(via Wayback Machine): [https://web.archive.org/web/20210725135838/https://gist.githubusercontent.com/mrsteyk/f9f853d93139cd395c1a49ab24b17b3d/raw/fdae77196a8f861c03373b243573096bd88406c0/common.rpak.log](https://web.archive.org/web/20210725135838/https://gist.githubusercontent.com/mrsteyk/f9f853d93139cd395c1a49ab24b17b3d/raw/fdae77196a8f861c03373b243573096bd88406c0/common.rpak.log)

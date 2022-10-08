@@ -1,17 +1,10 @@
+---
+description: Troubleshooting for Installing Custom Skins.
+---
+
 # Troubleshooting
 
 ### General Troubleshooting
-
-<details>
-
-<summary>TF2 Video Settings</summary>
-
-* Open Titanfall 2.
-* Navigate to Video settings.
-* Check that your 'Texture Filtering' is set to at least 'Anisotropic 8x' (preferably 'Anisotropic 16X').
-* Check that your 'Texture Streaming Budget' is sufficient.
-
-</details>
 
 <details>
 
@@ -26,6 +19,8 @@ You don't need the skin tool for these Northstar mods.
 So just disable the mod.
 
 </details>
+
+### DDS (skintool method)
 
 <details>
 
@@ -49,6 +44,17 @@ This is likely because you are using a laptop, but not all laptops are the same.
 
 <details>
 
+<summary>TF2 Video Settings</summary>
+
+* Open Titanfall 2.
+* Navigate to Video settings.
+* Check that your 'Texture Filtering' is set to at least 'Anisotropic 8x' (preferably 'Anisotropic 16X').
+* Check that your 'Texture Streaming Budget' is sufficient.
+
+</details>
+
+<details>
+
 <summary>NVIDIA Control Panel Settings</summary>
 
 \*If you have a Nvidia graphics card.\*
@@ -59,23 +65,9 @@ This is likely because you are using a laptop, but not all laptops are the same.
 
 </details>
 
-### Installation Successful but cannot see in-game:
-
 <details>
 
-<summary>Solution 1: NVIDIA Control Panel Settings</summary>
-
-\*If you have a Nvidia graphics card.\*
-
-* Open 'NVIDIA Control Panel'
-* Navigate to 3D Settings**>>**Adjust settings with preview&#x20;
-* Drag the Performance - Quality slider to 'Quality'.
-
-</details>
-
-<details>
-
-<summary>Solution 2: Broken <code>autoexec.cfg</code> Commands </summary>
+<summary>Broken <code>autoexec.cfg</code> Commands </summary>
 
 Some `autoexec.cfg` commands can break or increase chance of breaking custom DDS skins.
 
