@@ -12,7 +12,7 @@ Yes this is like Khan Academy. Give me feedback on this idea. I wish this would 
 
 Anyways. Here is the follow along video:
 
-{% embed url="https://youtu.be/UFCLVqGxKfc" %}
+{% embed url="https://youtu.be/YjdXIlaKBpQ" %}
 
 ## Prerequisites:&#x20;
 
