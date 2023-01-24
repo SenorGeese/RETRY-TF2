@@ -24,7 +24,9 @@
   * [yuh](Wiki/SkinTypes/ubad.md)
 * [References](Wiki/References/README.md)
   * [Tables](Wiki/References/Tables.md)
-  * [Graphics](Wiki/References/Graphics.md)
+  * [Graphics](Wiki/References/Graphics/README.md)
+    * [Nested mod in mods folder](Wiki/References/Graphics/nested-mod-in-mods-folder.md)
+    * [Proper Mod Installation](Wiki/References/Graphics/proper-mod-installation.md)
   * [Texture Maps](Wiki/References/TextureMaps.md)
 * [Troubleshooting](Wiki/troubleshooting.md)
 
