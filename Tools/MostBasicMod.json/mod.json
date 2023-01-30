@@ -1,0 +1,6 @@
+{
+    "Name": "mod name",
+    "Description": "desc",
+    "Version": "0.0.0",
+    "LoadPriority": 1
+  }
