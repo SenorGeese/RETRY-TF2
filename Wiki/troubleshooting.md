@@ -94,3 +94,18 @@ IF DOESN'T WORK AGAIN.
 If your skins still do not work. Your `autoexec.cfg` is not the issue.
 
 </details>
+
+<details>
+
+<summary>Overlapping Skins</summary>
+
+On certain DDS skins some textures are not included in the release version of the skin resulting in textures from the previous skin not being fully overwritten.&#x20;
+
+* Download needed default textures from [https://github.com/BigSpice/TitanFall-2-Skin-Modding](https://github.com/BigSpice/TitanFall-2-Skin-Modding/tree/main/Textures/Compiled%20textures)
+  * If the needed textures aren't there feel free to alert us on discord.
+* Install default textures as a skin.
+* Reinstall your desired skin.
+
+If this does not work double check if everything installed correctly, if all appears to be good there may be an issue with the skin itself.
+
+</details>
