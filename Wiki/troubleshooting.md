@@ -46,10 +46,10 @@ This is likely because you are using a laptop, but not all laptops are the same.
 
 <summary>TF2 Video Settings</summary>
 
-* Open Titanfall 2.
-* Navigate to Video settings.
-* Check that your 'Texture Filtering' is set to at least 'Anisotropic 8x' (preferably 'Anisotropic 16X').
-* Check that your 'Texture Streaming Budget' is sufficient.
+* [ ] Open Titanfall 2.
+* [ ] Navigate to Video settings.
+* [ ] Check that your 'Texture Filtering' is set to at least 'Anisotropic 8x' (preferably 'Anisotropic 16X').
+* [ ] Check that your 'Texture Streaming Budget' is sufficient.
 
 </details>
 
@@ -59,9 +59,9 @@ This is likely because you are using a laptop, but not all laptops are the same.
 
 \*If you have a Nvidia graphics card.\*
 
-* Open 'NVIDIA Control Panel'
-* Navigate to 3D Settings**>>**Adjust settings with preview&#x20;
-* Drag the Performance - Quality slider to 'Quality'.
+* [ ] Open 'NVIDIA Control Panel'.
+* [ ] Navigate to 3D Settings**>>**Adjust settings with preview.
+* [ ] Drag the Performance - Quality slider to 'Quality'.
 
 </details>
 
@@ -73,23 +73,23 @@ Some `autoexec.cfg` commands can break or increase chance of breaking custom DDS
 
 This is pretty rare. I've only heard of this issue happening 4 times.&#x20;
 
-To fix.&#x20;
+In order to fix;&#x20;
 
-* Just save your current `autoexec.cfg`
-* Create a new blank `autoexec.cfg`&#x20;
-* Run the game.
-* Close the game.
-* Edit `autoexec.cfg` to copy and paste your previous commands.&#x20;
+* [ ] Just save your current `autoexec.cfg`
+* [ ] Create a new blank `autoexec.cfg`&#x20;
+* [ ] Run the game.
+* [ ] Close the game.
+* [ ] Edit `autoexec.cfg` to copy and paste your previous commands.&#x20;
 
 IF THIS DOESN'T WORK. Please share your commands to me for testing but we can get this to work.&#x20;
 
-* Just, copy and paste the commands you want or understand what they do.&#x20;
+* Copy and paste the commands you want or understand what they do.&#x20;
 
 Minimize the chance of corruption. If not. Just paste the necessities.&#x20;
 
 IF DOESN'T WORK AGAIN.
 
-* Just use a blank `autoexec.cfg` file.&#x20;
+* Use a blank `autoexec.cfg` file.&#x20;
 
 If your skins still do not work. Your `autoexec.cfg` is not the issue.
 
@@ -101,10 +101,10 @@ If your skins still do not work. Your `autoexec.cfg` is not the issue.
 
 On certain DDS skins some textures are not included in the release version of the skin resulting in textures from the previous skin not being fully overwritten.&#x20;
 
-* Download needed default textures from [https://github.com/BigSpice/TitanFall-2-Skin-Modding](https://github.com/BigSpice/TitanFall-2-Skin-Modding/tree/main/Textures/Compiled%20textures)
-  * If the needed textures aren't there feel free to alert us on discord.
-* Install default textures as a skin.
-* Reinstall your desired skin.
+* [ ] Download needed default textures from [https://github.com/BigSpice/TitanFall-2-Skin-Modding](https://github.com/BigSpice/TitanFall-2-Skin-Modding/tree/main/Textures/Compiled%20textures)\
+  &#x20;    _If the needed textures aren't there feel free to alert us on discord._
+* [ ] Install default textures as a skin.
+* [ ] Reinstall your desired skin.
 
 If this does not work double check if everything installed correctly, if all appears to be good there may be an issue with the skin itself.
 

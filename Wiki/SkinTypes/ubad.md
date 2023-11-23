@@ -18,13 +18,13 @@ You're here because you want to use custom skins and have no idea what you're ta
 
 The hyperlinks link to how to install each type.
 
-*   ****[**DDS (rpak method)**](https://media.discordapp.net/attachments/1002068248151470120/1019786338804973661/propermodinstallation.gif)****
+*   [**DDS (rpak method)**](https://media.discordapp.net/attachments/1002068248151470120/1019786338804973661/propermodinstallation.gif)
 
     **Installed just like Northstar mods.** This is the best overall method.&#x20;
-*   ****[**DDS (skintool method)**](https://retryy.gitbook.io/tf2/Guide/Install/dds)****
+*   [**DDS (skintool method)**](https://retryy.gitbook.io/tf2/Guide/Install/dds)
 
     **Installed with skintools.** This is bad. Stop using this.&#x20;
-*   ****[**VTF (vpk method)**](https://retryy.gitbook.io/tf2/Guide/Install/vtf-manual-modding)****
+*   [**VTF (vpk method)**](https://retryy.gitbook.io/tf2/Guide/Install/vtf-manual-modding)
 
     **Installed manually or as mod.** These are the animated and moving skins.&#x20;
 
@@ -60,7 +60,11 @@ They should appear like the common Northstar mod.&#x20;
 
 Example:
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/insidearpakskin.png" alt=""><figcaption><p>Average rpak skin Northstar mod.</p></figcaption></figure>
+
+</div>
 
 #### Should appear in 'mods' list inside Northstar.
 
